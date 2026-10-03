@@ -1,0 +1,629 @@
+[
+ {
+  "id": "peace-sadat-visit",
+  "type": "truefalse",
+  "difficulty": "easy",
+  "year": "1977",
+  "animationType": "diplomacy",
+  "situation": {
+   "en": "November 1977. Egypt and Israel have fought four major wars in under 30 years and have no diplomatic relations.",
+   "he": "נובמבר 1977. מצרים וישראל נלחמו בארבע מלחמות גדולות בתוך פחות מ-30 שנה, ואין ביניהן יחסים דיפלומטיים."
+  },
+  "context": [
+   {
+    "en": "Sadat tells Egypt's parliament he is ready to go even to the Knesset in pursuit of peace.",
+    "he": "סאדאת מודיע בפרלמנט המצרי שהוא מוכן להגיע אפילו לכנסת למען השלום."
+   },
+   {
+    "en": "Israel's Prime Minister Menachem Begin responds with an invitation.",
+    "he": "ראש הממשלה מנחם בגין משיב בהזמנה."
+   }
+  ],
+  "question": {
+   "en": "Anwar Sadat became the first Arab head of state to make an official visit to Israel.",
+   "he": "אנואר סאדאת היה לראש המדינה הערבי הראשון שערך ביקור רשמי בישראל."
+  },
+  "correctAnswer": "true",
+  "explanation": {
+   "en": "On 19–21 November 1977, Sadat came to Israel: he prayed at al-Aqsa Mosque, visited the Church of the Holy Sepulchre and Yad Vashem, and addressed the Knesset. In the speech he called for Israeli withdrawal from the territories taken in 1967 and for a Palestinian homeland. The visit opened the road to Camp David.",
+   "he": "ב-19–21 בנובמבר 1977 שהה סאדאת בישראל: התפלל במסגד אל-אקצא, ביקר בכנסיית הקבר ובביד ושם, ונאם בכנסת. בנאומו קרא לנסיגה ישראלית מהשטחים שנכבשו ב-1967 ולמולדת לפלסטינים. הביקור סלל את הדרך לקמפ דייוויד."
+  },
+  "didYouKnow": {
+   "en": "Sadat paid a heavy price: he was assassinated in Cairo in October 1981 by Islamist militants who opposed, among other things, the peace with Israel.",
+   "he": "סאדאת שילם מחיר כבד: הוא נרצח בקהיר באוקטובר 1981 בידי פעילים אסלאמיסטים שהתנגדו, בין היתר, לשלום עם ישראל."
+  },
+  "sources": [
+   {
+    "title": "US Office of the Historian — FRUS, Editorial Note on Sadat's visit to Israel (November 1977)",
+    "url": "https://history.state.gov/historicaldocuments/frus1977-80v08/d152",
+    "type": "official"
+   },
+   {
+    "title": "The Nobel Prize — Anwar al-Sadat: facts",
+    "url": "https://www.nobelprize.org/prizes/peace/1978/al-sadat/speedread/",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: 1977 visit by Anwar Sadat to Jerusalem",
+    "url": "https://en.wikipedia.org/wiki/1977_visit_by_Anwar_Sadat_to_Jerusalem",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Sadat in Jerusalem",
+    "he": "סאדאת בירושלים"
+   },
+   "date": {
+    "en": "Nov 19, 1977",
+    "he": "19 בנובמבר 1977"
+   },
+   "category": "diplomacy"
+  },
+  "tags": [
+   "egypt",
+   "visit"
+  ],
+  "theme": "treaty",
+  "clue": {
+   "en": "Look at what Sadat told Egypt's parliament on 9 November 1977.",
+   "he": "שימו לב למה שסאדאת אמר בפרלמנט המצרי ב-9 בנובמבר 1977."
+  },
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "peace-camp-david",
+  "type": "decision",
+  "difficulty": "normal",
+  "year": "1978",
+  "animationType": "diplomacy",
+  "situation": {
+   "en": "Israel has held the Sinai Peninsula since the 1967 war. Egypt wants it back. A historic opening has appeared.",
+   "he": "ישראל מחזיקה בחצי האי סיני מאז מלחמת 1967. מצרים רוצה אותו בחזרה. נפתח חלון היסטורי."
+  },
+  "context": [
+   {
+    "en": "Nov 1977: Egypt's President Anwar Sadat flies to Jerusalem and addresses the Knesset.",
+    "he": "נובמבר 1977: נשיא מצרים אנואר סאדאת טס לירושלים ונואם בכנסת."
+   },
+   {
+    "en": "Sept 1978: Menachem Begin and Sadat negotiate for 13 days at Camp David, hosted by President Jimmy Carter.",
+    "he": "ספטמבר 1978: מנחם בגין וסאדאת מנהלים משא ומתן 13 ימים בקמפ דייוויד, כאורחי הנשיא ג׳ימי קרטר."
+   }
+  ],
+  "question": {
+   "en": "What did Israel ultimately agree to?",
+   "he": "למה ישראל הסכימה בסופו של דבר?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "Keep the entire peninsula",
+     "he": "להשאיר את כל חצי האי בידיה"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "Full withdrawal in exchange for a peace treaty",
+     "he": "נסיגה מלאה תמורת הסכם שלום"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "Divide the peninsula between the two countries",
+     "he": "לחלק את חצי האי בין שתי המדינות"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "Place it under international administration",
+     "he": "להעביר אותו לניהול בינלאומי"
+    }
+   }
+  ],
+  "correctAnswer": "b",
+  "explanation": {
+   "en": "Under the 1979 Egypt–Israel peace treaty, Israel withdrew from all of Sinai by April 1982 and evacuated the settlements it had built there. In return, Egypt became the first Arab state to formally recognize Israel, and the two countries established diplomatic relations.",
+   "he": "במסגרת הסכם השלום בין ישראל למצרים (1979) נסוגה ישראל מכל סיני עד אפריל 1982 ופינתה את היישובים שהקימה שם. בתמורה הפכה מצרים למדינה הערבית הראשונה שהכירה רשמית בישראל, ונכוננו יחסים דיפלומטיים."
+  },
+  "didYouKnow": {
+   "en": "Begin and Sadat shared the 1978 Nobel Peace Prize. The peace between the two countries has held for more than four decades.",
+   "he": "בגין וסאדאת חלקו את פרס נובל לשלום לשנת 1978. השלום בין שתי המדינות מחזיק מעמד כבר יותר מארבעה עשורים."
+  },
+  "sources": [
+   {
+    "title": "Treaty of Peace between Egypt and Israel, 26 March 1979 — full text (Avalon Project, Yale Law School)",
+    "url": "https://avalon.law.yale.edu/20th_century/isregypt.asp",
+    "type": "primary"
+   },
+   {
+    "title": "US Office of the Historian — Camp David Accords and the Arab-Israeli Peace Process",
+    "url": "https://history.state.gov/milestones/1977-1980/camp-david",
+    "type": "official"
+   },
+   {
+    "title": "The Nobel Peace Prize 1978",
+    "url": "https://www.nobelprize.org/prizes/peace/1978/summary/",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Egypt–Israel peace treaty",
+    "url": "https://en.wikipedia.org/wiki/Egypt%E2%80%93Israel_peace_treaty",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Camp David Accords",
+    "he": "הסכמי קמפ דייוויד"
+   },
+   "date": {
+    "en": "Sept 17, 1978",
+    "he": "17 בספטמבר 1978"
+   },
+   "category": "peace"
+  },
+  "tags": [
+   "egypt",
+   "sinai",
+   "treaty"
+  ],
+  "ledger": [
+   {
+    "id": "sinai-returned",
+    "value": {
+     "en": "≈60,000 km²",
+     "he": "כ-60,000 קמ״ר"
+    },
+    "label": {
+     "en": "Sinai Peninsula returned to Egypt — nearly 90% of the territory Israel captured in 1967",
+     "he": "חצי האי סיני הוחזר למצרים – כמעט 90% מהשטח שישראל כבשה ב-1967"
+    },
+    "source": {
+     "title": "Wikipedia: Sinai Peninsula",
+     "url": "https://en.wikipedia.org/wiki/Sinai_Peninsula",
+     "type": "independent"
+    }
+   }
+  ],
+  "theme": "price",
+  "clue": {
+   "en": "Egypt's central demand was the territory itself.",
+   "he": "הדרישה המרכזית של מצרים הייתה השטח עצמו."
+  },
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "peace-sinai-map",
+  "type": "map",
+  "difficulty": "easy",
+  "year": "1982",
+  "animationType": "map:sinai",
+  "situation": {
+   "en": "April 1982. The last Israeli troops leave a vast desert peninsula, completing a withdrawal agreed three years earlier.",
+   "he": "אפריל 1982. אחרוני חיילי צה״ל עוזבים חצי אי מדברי עצום, ומשלימים נסיגה שסוכמה שלוש שנים קודם לכן."
+  },
+  "context": [
+   {
+    "en": "The territory covers about 60,000 km² — nearly three times the area of Israel within its pre-1967 lines.",
+    "he": "שטחו כ-60,000 קמ״ר – כמעט פי שלושה משטח ישראל בקווים שלפני 1967."
+   },
+   {
+    "en": "It lies between the Suez Canal and the Gulf of Aqaba.",
+    "he": "הוא שוכן בין תעלת סואץ למפרץ אילת."
+   }
+  ],
+  "question": {
+   "en": "Tap the territory Israel returned.",
+   "he": "הקישו על השטח שישראל החזירה."
+  },
+  "answers": [
+   {
+    "id": "sinai"
+   },
+   {
+    "id": "gaza"
+   },
+   {
+    "id": "westbank"
+   },
+   {
+    "id": "golan"
+   }
+  ],
+  "correctAnswer": "sinai",
+  "explanation": {
+   "en": "Israel returned the Sinai Peninsula to Egypt in stages between 1979 and 1982. Gaza, which Egypt had administered from 1948 to 1967, was not part of the handover.",
+   "he": "ישראל החזירה את חצי האי סיני למצרים בשלבים בין 1979 ל-1982. רצועת עזה, שהייתה בשליטה מצרית בין 1948 ל-1967, לא נכללה בהעברה."
+  },
+  "didYouKnow": {
+   "en": "One small strip took longer: Taba, on the Red Sea coast, was handed to Egypt in 1989 after an international arbitration panel ruled in Egypt's favor.",
+   "he": "רצועה קטנה אחת לקחה יותר זמן: טאבה, לחוף ים סוף, הועברה למצרים ב-1989 לאחר שבוררות בינלאומית פסקה לטובתה."
+  },
+  "sources": [
+   {
+    "title": "Treaty of Peace between Egypt and Israel, 26 March 1979 — full text (Avalon Project, Yale Law School)",
+    "url": "https://avalon.law.yale.edu/20th_century/isregypt.asp",
+    "type": "primary"
+   },
+   {
+    "title": "Center for Israel Education — Sinai returned to Egypt (25 April 1982)",
+    "url": "https://israeled.org/sinai-returned-egypt/",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Sinai Peninsula",
+    "url": "https://en.wikipedia.org/wiki/Sinai_Peninsula",
+    "type": "independent"
+   },
+   {
+    "title": "Encyclopedia.com — Taba",
+    "url": "https://www.encyclopedia.com/history/asia-and-africa/middle-eastern-history/taba",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "The Return of Sinai",
+    "he": "החזרת סיני"
+   },
+   "date": {
+    "en": "Apr 25, 1982",
+    "he": "25 באפריל 1982"
+   },
+   "category": "peace"
+  },
+  "tags": [
+   "map",
+   "egypt",
+   "sinai"
+  ],
+  "ledger": [
+   {
+    "id": "yamit-evacuated",
+    "value": {
+     "en": "1982",
+     "he": "1982"
+    },
+    "label": {
+     "en": "Israeli settlements in Sinai evacuated, including the town of Yamit",
+     "he": "היישובים הישראליים בסיני פונו, ובהם העיר ימית"
+    },
+    "source": {
+     "title": "Center for Israel Education — Sinai returned to Egypt (25 April 1982)",
+     "url": "https://israeled.org/sinai-returned-egypt/",
+     "type": "independent"
+    }
+   }
+  ],
+  "theme": "price",
+  "clue": {
+   "en": "It is by far the largest of the four.",
+   "he": "זה הגדול מבין הארבעה – בהפרש עצום."
+  },
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "peace-jordan",
+  "type": "mc",
+  "difficulty": "normal",
+  "year": "1994",
+  "animationType": "diplomacy",
+  "situation": {
+   "en": "October 1994. Israel and Jordan share a long border — and decades of quiet, unofficial contact between their leaders.",
+   "he": "אוקטובר 1994. לישראל ולירדן גבול ארוך – ועשרות שנים של מגעים שקטים ולא רשמיים בין מנהיגיהן."
+  },
+  "context": [
+   {
+    "en": "In July, King Hussein and Yitzhak Rabin signed the Washington Declaration, ending the state of war.",
+    "he": "ביולי חתמו המלך חוסיין ויצחק רבין על הצהרת וושינגטון, שסיימה את מצב המלחמה."
+   },
+   {
+    "en": "US President Bill Clinton flies in to witness the treaty signing.",
+    "he": "נשיא ארה״ב ביל קלינטון מגיע כדי להיות עד לחתימה."
+   }
+  ],
+  "question": {
+   "en": "Where was the Israel–Jordan peace treaty signed?",
+   "he": "היכן נחתם הסכם השלום בין ישראל לירדן?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "Camp David, USA",
+     "he": "קמפ דייוויד, ארה״ב"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "Oslo, Norway",
+     "he": "אוסלו, נורווגיה"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "At the Arava border crossing between the two countries",
+     "he": "במעבר הגבול בערבה בין שתי המדינות"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "Madrid, Spain",
+     "he": "מדריד, ספרד"
+    }
+   }
+  ],
+  "correctAnswer": "c",
+  "explanation": {
+   "en": "The treaty was signed on 26 October 1994 at the Arava/Wadi Araba crossing north of Eilat and Aqaba, by Prime Ministers Yitzhak Rabin and Abdelsalam al-Majali. Jordan became the second Arab state to make peace with Israel.",
+   "he": "ההסכם נחתם ב-26 באוקטובר 1994 במעבר הערבה, מצפון לאילת ועקבה, בידי ראשי הממשלה יצחק רבין ועבד א-סלאם אל-מג׳אלי. ירדן הייתה למדינה הערבית השנייה שכרתה שלום עם ישראל."
+  },
+  "didYouKnow": {
+   "en": "Two small areas — Naharayim/Baqura and Tzofar/al-Ghamr — were placed under a special arrangement that let Israeli farmers keep working them. Jordan ended that arrangement in 2019.",
+   "he": "שני שטחים קטנים – נהריים/בקורה וצופר/אל-ע׳מר – הוכנסו להסדר מיוחד שאפשר לחקלאים ישראלים להמשיך לעבד אותם. ירדן סיימה את ההסדר ב-2019."
+  },
+  "sources": [
+   {
+    "title": "Israel State Archives — Negotiating peace between Israel and Jordan, 1993–1994",
+    "url": "https://catalog.archives.gov.il/site/en/chapter/negotiating-peace-between-israel-and-jordan-september-1993-november-1994",
+    "type": "official"
+   },
+   {
+    "title": "Wikipedia: Israel–Jordan peace treaty",
+    "url": "https://en.wikipedia.org/wiki/Israel%E2%80%93Jordan_peace_treaty",
+    "type": "independent"
+   },
+   {
+    "title": "The Times of Israel — Last Israeli farmers leave enclave after Jordan deal ends",
+    "url": "https://www.timesofisrael.com/last-israeli-farmers-leave-enclave-after-jordan-deal-ends/",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Peace with Jordan",
+    "he": "השלום עם ירדן"
+   },
+   "date": {
+    "en": "Oct 26, 1994",
+    "he": "26 באוקטובר 1994"
+   },
+   "category": "peace"
+  },
+  "tags": [
+   "jordan",
+   "treaty"
+  ],
+  "theme": "treaty",
+  "clue": {
+   "en": "The ceremony was held in the desert, on the border line itself.",
+   "he": "הטקס נערך במדבר, על קו הגבול עצמו."
+  },
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "peace-abraham",
+  "type": "factfiction",
+  "difficulty": "hard",
+  "year": "2020",
+  "animationType": "diplomacy",
+  "situation": {
+   "en": "September 2020. A signing ceremony on the White House South Lawn.",
+   "he": "ספטמבר 2020. טקס חתימה על המדשאה הדרומית של הבית הלבן."
+  },
+  "context": [
+   {
+    "en": "The United Arab Emirates and Bahrain agree to establish full diplomatic relations with Israel.",
+    "he": "איחוד האמירויות ובחריין מסכימות לכונן יחסים דיפלומטיים מלאים עם ישראל."
+   },
+   {
+    "en": "Morocco and Sudan announce normalization steps in the months that follow.",
+    "he": "מרוקו וסודן מכריזות על צעדי נורמליזציה בחודשים שלאחר מכן."
+   }
+  ],
+  "question": {
+   "en": "The Abraham Accords required Israel to first sign a final peace agreement on the West Bank and Gaza.",
+   "he": "הסכמי אברהם חייבו את ישראל לחתום תחילה על הסכם קבע על הגדה המערבית ועזה."
+  },
+  "correctAnswer": "fiction",
+  "explanation": {
+   "en": "The accords normalized relations without a final agreement on the West Bank and Gaza. As part of the UAE deal, Israel agreed to suspend plans to annex parts of the West Bank — though the two sides described how lasting that commitment was in different terms.",
+   "he": "ההסכמים כוננו יחסים ללא הסכם קבע על הגדה המערבית ועזה. במסגרת ההסכם עם האמירויות הסכימה ישראל להשהות תוכניות לספח חלקים מהגדה המערבית – אף שהצדדים תיארו באופן שונה עד כמה ההתחייבות הזו קבועה."
+  },
+  "didYouKnow": {
+   "en": "This broke with the 2002 Arab Peace Initiative, which offered normal relations only after a full Israeli withdrawal to the 1967 lines, a Palestinian state with East Jerusalem as its capital, and a just solution for refugees.",
+   "he": "הדבר חרג מיוזמת השלום הערבית מ-2002, שהציעה יחסים נורמליים רק לאחר נסיגה ישראלית מלאה לקווי 1967, הקמת מדינה פלסטינית שבירתה מזרח ירושלים ופתרון צודק לבעיית הפליטים."
+  },
+  "sources": [
+   {
+    "title": "Abraham Accords Peace Agreement: UAE–Israel treaty, signed text (15 September 2020)",
+    "url": "https://www.state.gov/wp-content/uploads/2020/09/UAE_Israel-treaty-signed-FINAL-15-Sept-2020-508.pdf",
+    "type": "primary"
+   },
+   {
+    "title": "Middle East Institute — The Abraham Accords (backgrounder)",
+    "url": "https://www.mei.edu/publications/abraham-accords",
+    "type": "independent"
+   },
+   {
+    "title": "United Nations — Arab Peace Initiative, Beirut summit resolutions (2002)",
+    "url": "https://www.un.org/unispal/document/auto-insert-181223/",
+    "type": "official"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Abraham Accords",
+    "he": "הסכמי אברהם"
+   },
+   "date": {
+    "en": "Sept 15, 2020",
+    "he": "15 בספטמבר 2020"
+   },
+   "category": "diplomacy"
+  },
+  "tags": [
+   "uae",
+   "bahrain",
+   "normalization"
+  ],
+  "ledger": [
+   {
+    "id": "annexation-suspended",
+    "value": {
+     "en": "2020",
+     "he": "2020"
+    },
+    "label": {
+     "en": "Plans to annex parts of the West Bank suspended as part of the agreement with the UAE",
+     "he": "תוכניות לספח חלקים מהגדה המערבית הושהו במסגרת ההסכם עם האמירויות"
+    },
+    "source": {
+     "title": "Middle East Institute — The Abraham Accords (backgrounder)",
+     "url": "https://www.mei.edu/publications/abraham-accords",
+     "type": "independent"
+    }
+   }
+  ],
+  "theme": "treaty",
+  "clue": {
+   "en": "Check what the UAE asked Israel to give up in return.",
+   "he": "בדקו על מה ביקשו האמירויות מישראל לוותר בתמורה."
+  },
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "peace-order",
+  "type": "order",
+  "difficulty": "normal",
+  "year": "1977–2020",
+  "animationType": "timeline",
+  "situation": {
+   "en": "Five milestones of Arab–Israeli diplomacy, spread across four decades.",
+   "he": "חמש אבני דרך בדיפלומטיה הישראלית-ערבית, לאורך ארבעה עשורים."
+  },
+  "context": [
+   {
+    "en": "Tap the events from earliest to latest. Tap again to undo.",
+    "he": "הקישו על האירועים מהמוקדם למאוחר. הקשה נוספת מבטלת."
+   }
+  ],
+  "question": {
+   "en": "Put them in order.",
+   "he": "סדרו אותם לפי הסדר."
+  },
+  "items": [
+   {
+    "id": "1",
+    "year": "1977",
+    "text": {
+     "en": "Sadat visits Jerusalem",
+     "he": "סאדאת מבקר בירושלים"
+    }
+   },
+   {
+    "id": "2",
+    "year": "1979",
+    "text": {
+     "en": "Egypt–Israel peace treaty",
+     "he": "הסכם השלום עם מצרים"
+    }
+   },
+   {
+    "id": "3",
+    "year": "1991",
+    "text": {
+     "en": "Madrid Peace Conference",
+     "he": "ועידת השלום במדריד"
+    }
+   },
+   {
+    "id": "4",
+    "year": "1994",
+    "text": {
+     "en": "Israel–Jordan peace treaty",
+     "he": "הסכם השלום עם ירדן"
+    }
+   },
+   {
+    "id": "5",
+    "year": "2020",
+    "text": {
+     "en": "Abraham Accords",
+     "he": "הסכמי אברהם"
+    }
+   }
+  ],
+  "explanation": {
+   "en": "Each step widened the circle: Egypt in 1979, the first public multilateral talks at Madrid in 1991, Jordan in 1994, and the Gulf normalization deals of 2020.",
+   "he": "כל שלב הרחיב את המעגל: מצרים ב-1979, שיחות פומביות רב-צדדיות ראשונות במדריד ב-1991, ירדן ב-1994, והסכמי הנורמליזציה עם מדינות המפרץ ב-2020."
+  },
+  "didYouKnow": {
+   "en": "The Madrid Conference (October 1991) brought Israel together with Syria, Lebanon, Egypt and a joint Jordanian–Palestinian delegation — and marked the first official talks between Israel and representatives of the Arabs of the West Bank and Gaza.",
+   "he": "ועידת מדריד (אוקטובר 1991) הפגישה את ישראל עם סוריה, לבנון, מצרים ומשלחת ירדנית-פלסטינית משותפת – והייתה המגע הרשמי הראשון בין ישראל לנציגי הערבים מהגדה ומעזה."
+  },
+  "sources": [
+   {
+    "title": "Israel State Archives — Negotiating peace between Israel and Jordan, 1993–1994",
+    "url": "https://catalog.archives.gov.il/site/en/chapter/negotiating-peace-between-israel-and-jordan-september-1993-november-1994",
+    "type": "official"
+   },
+   {
+    "title": "US Office of the Historian — The Madrid Conference, 1991",
+    "url": "https://history.state.gov/milestones/1989-1992/madrid-conference",
+    "type": "official"
+   },
+   {
+    "title": "Wikipedia: Madrid Conference of 1991",
+    "url": "https://en.wikipedia.org/wiki/Madrid_Conference_of_1991",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "The Madrid Conference",
+    "he": "ועידת מדריד"
+   },
+   "date": {
+    "en": "Oct 30, 1991",
+    "he": "30 באוקטובר 1991"
+   },
+   "category": "diplomacy"
+  },
+  "tags": [
+   "timeline"
+  ],
+  "theme": "sequence",
+  "clue": {
+   "en": "Egypt came first. The Gulf came last.",
+   "he": "מצרים הייתה ראשונה. מדינות המפרץ – אחרונות."
+  },
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ }
+]
