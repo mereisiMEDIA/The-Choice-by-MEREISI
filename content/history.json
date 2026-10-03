@@ -1,0 +1,573 @@
+[
+ {
+  "id": "hist-declaration",
+  "type": "mc",
+  "difficulty": "easy",
+  "year": "1948",
+  "animationType": "document",
+  "situation": {
+   "en": "14 May 1948, Tel Aviv. Hours before the British Mandate ends, a small hall fills with people.",
+   "he": "14 במאי 1948, תל אביב. שעות לפני תום המנדט הבריטי, אולם קטן מתמלא באנשים."
+  },
+  "context": [
+   {
+    "en": "The ceremony is broadcast live on radio.",
+    "he": "הטקס משודר בשידור חי ברדיו."
+   },
+   {
+    "en": "Neighboring Arab armies are expected to invade within hours.",
+    "he": "צבאות ערב השכנים צפויים לפלוש בתוך שעות."
+   }
+  ],
+  "question": {
+   "en": "Who read out Israel's Declaration of Independence?",
+   "he": "מי הקריא את מגילת העצמאות?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "David Ben-Gurion",
+     "he": "דוד בן-גוריון"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "Chaim Weizmann",
+     "he": "חיים ויצמן"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "Golda Meir",
+     "he": "גולדה מאיר"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "Menachem Begin",
+     "he": "מנחם בגין"
+    }
+   }
+  ],
+  "correctAnswer": "a",
+  "explanation": {
+   "en": "David Ben-Gurion, head of the Jewish Agency and soon the first prime minister, read the declaration at the Tel Aviv Museum — today Independence Hall. Within hours Egypt bombed Tel Aviv; the next day, armies of neighboring Arab states invaded.",
+   "he": "דוד בן-גוריון, יו״ר הסוכנות היהודית ובקרוב ראש הממשלה הראשון, הקריא את ההכרזה במוזיאון תל אביב – היום היכל העצמאות. בתוך שעות הפציצה מצרים את תל אביב; למחרת פלשו צבאות מדינות ערב השכנות."
+  },
+  "didYouKnow": {
+   "en": "Only 25 of the 37 signatories signed at the ceremony itself. The other 12 signed later — 11 of them were trapped in besieged Jerusalem.",
+   "he": "רק 25 מתוך 37 החותמים חתמו בטקס עצמו. 12 האחרים חתמו מאוחר יותר – 11 מהם היו לכודים בירושלים הנצורה."
+  },
+  "sources": [
+   {
+    "title": "Israel Ministry of Foreign Affairs — Declaration of Establishment of State of Israel (full text)",
+    "url": "https://embassies.gov.il/MFA/AboutIsrael/history/Pages/Declaration%20of%20Establishment%20of%20State%20of%20Israel.aspx",
+    "type": "official"
+   },
+   {
+    "title": "Jewish Virtual Library — The Declaration of the Establishment of the State of Israel",
+    "url": "https://www.jewishvirtuallibrary.org/the-declaration-of-the-establishment-of-the-state-of-israel",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Israeli Declaration of Independence",
+    "url": "https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Declaration of Independence",
+    "he": "מגילת העצמאות"
+   },
+   "date": {
+    "en": "May 14, 1948",
+    "he": "14 במאי 1948"
+   },
+   "category": "history"
+  },
+  "tags": [
+   "1948",
+   "independence"
+  ],
+  "clue": {
+   "en": "He chaired the Jewish Agency's executive.",
+   "he": "הוא עמד בראש הנהלת הסוכנות היהודית."
+  },
+  "theme": "founding",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "hist-equal",
+  "type": "factfiction",
+  "difficulty": "normal",
+  "year": "1948",
+  "animationType": "document",
+  "situation": {
+   "en": "The declaration was drafted in a matter of days, and argued over word by word.",
+   "he": "ההכרזה נוסחה בתוך ימים ספורים, ועל כל מילה בה התנהל ויכוח."
+  },
+  "context": [
+   {
+    "en": "It promises equality of social and political rights to all inhabitants, irrespective of religion, race or sex.",
+    "he": "היא מבטיחה שוויון זכויות חברתי ומדיני גמור לכל אזרחיה, בלי הבדל דת, גזע ומין."
+   },
+   {
+    "en": "It was signed by 37 members of the provisional state council.",
+    "he": "עליה חתמו 37 חברי מועצת העם."
+   }
+  ],
+  "question": {
+   "en": "The declaration called on the state's Arab inhabitants to take part in building it, on the basis of full and equal citizenship.",
+   "he": "ההכרזה קראה לתושבים הערבים של המדינה ליטול חלק בבנייתה על יסוד אזרחות מלאה ושווה."
+  },
+  "correctAnswer": "fact",
+  "explanation": {
+   "en": "The text appeals to the Arab inhabitants to preserve peace and participate in building the state on the basis of full and equal citizenship and due representation. How fully that promise was realized — for example, most Arab citizens lived under military government until December 1966 — is part of a long debate.",
+   "he": "הטקסט קורא לבני העם הערבי לשמור על השלום וליטול חלקם בבניין המדינה על יסוד אזרחות מלאה ושווה ונציגות מתאימה. עד כמה ההבטחה מומשה – למשל, רוב האזרחים הערבים חיו תחת ממשל צבאי עד דצמבר 1966 – נתון לוויכוח ארוך."
+  },
+  "didYouKnow": {
+   "en": "The declaration never names God directly. It uses the phrase \"Rock of Israel\" (Tzur Yisrael) — a compromise religious and secular signatories could both accept.",
+   "he": "ההכרזה אינה מזכירה את האל במפורש. היא משתמשת בביטוי ״צור ישראל״ – פשרה שהחותמים הדתיים והחילונים יכלו לקבל."
+  },
+  "sources": [
+   {
+    "title": "Israel Ministry of Foreign Affairs — Declaration of Establishment of State of Israel (full text)",
+    "url": "https://embassies.gov.il/MFA/AboutIsrael/history/Pages/Declaration%20of%20Establishment%20of%20State%20of%20Israel.aspx",
+    "type": "official"
+   },
+   {
+    "title": "Economic Cooperation Foundation — Abolition of the military government of Arab-populated areas (1966)",
+    "url": "https://ecf.org.il/issues/issue/88",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Israeli Declaration of Independence",
+    "url": "https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "A Promise of Equality",
+    "he": "הבטחה לשוויון"
+   },
+   "date": {
+    "en": "May 14, 1948",
+    "he": "14 במאי 1948"
+   },
+   "category": "history"
+  },
+  "tags": [
+   "1948",
+   "independence"
+  ],
+  "clue": {
+   "en": "Read the appeal to the Arab inhabitants in the text itself.",
+   "he": "קראו את הפנייה לבני העם הערבי בנוסח ההכרזה עצמו."
+  },
+  "theme": "founding",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "hist-1948-two",
+  "type": "mc",
+  "difficulty": "hard",
+  "year": "1948",
+  "animationType": "map:region",
+  "situation": {
+   "en": "After Arab leaders rejected the UN partition plan, attacks began within days of the November 1947 vote, and five Arab armies invaded on 15 May 1948.",
+   "he": "לאחר שמנהיגי ערב דחו את תוכנית החלוקה של האו״ם, החלו התקפות בתוך ימים מההצבעה בנובמבר 1947, וחמישה צבאות ערביים פלשו ב-15 במאי 1948."
+  },
+  "context": [
+   {
+    "en": "The fighting ended with armistice agreements in 1949.",
+    "he": "הלחימה הסתיימה בהסכמי שביתת הנשק ב-1949."
+   },
+   {
+    "en": "Refugees moved to Gaza, the West Bank, Jordan, Lebanon and Syria.",
+    "he": "פליטים עברו לעזה, לגדה המערבית, לירדן, ללבנון ולסוריה."
+   }
+  ],
+  "question": {
+   "en": "About how many Arabs fled or were expelled from the territory that became Israel during the war?",
+   "he": "כמה ערבים, בקירוב, ברחו או גורשו במהלך המלחמה מהשטח שהפך לישראל?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "About 70,000",
+     "he": "כ-70,000"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "About 300,000",
+     "he": "כ-300,000"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "About 700,000",
+     "he": "כ-700,000"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "About 2 million",
+     "he": "כ-2 מיליון"
+    }
+   }
+  ],
+  "correctAnswer": "c",
+  "explanation": {
+   "en": "The war began when Arab forces attacked after the partition vote and Arab states invaded the day after Israel's founding; in its course about 700,000 Arabs fled or were expelled — a UN committee estimated 711,000, while other estimates range from about 520,000 to 850,000. Historians still debate the causes: flight from the fighting, expulsions in some places, and the collapse of Arab society in the country all played a part.",
+   "he": "המלחמה החלה כשכוחות ערביים תקפו אחרי הצבעת החלוקה, ומדינות ערב פלשו למחרת הקמת ישראל; במהלכה ברחו או גורשו כ-700,000 ערבים – ועדה של האו״ם העריכה 711,000, והערכות אחרות נעות בין כ-520,000 ל-850,000. היסטוריונים עדיין מתווכחים על הסיבות: בריחה מפני הקרבות, גירושים במקומות מסוימים וקריסת החברה הערבית בארץ – כולם מילאו תפקיד."
+  },
+  "didYouKnow": {
+   "en": "Displacement went both ways: Jewish residents were forced out of Jerusalem's Old City and Gush Etzion in 1948, and in the following years hundreds of thousands of Jews left or were driven from Arab and Muslim countries, many settling in Israel.",
+   "he": "העקירה הייתה דו-כיוונית: תושבים יהודים נעקרו מהעיר העתיקה בירושלים ומגוש עציון ב-1948, ובשנים שלאחר מכן עזבו או גורשו מאות אלפי יהודים מארצות ערב והאסלאם, ורבים מהם התיישבו בישראל."
+  },
+  "sources": [
+   {
+    "title": "UN Conciliation Commission for Palestine — Technical Committee on Refugees, report (1949): estimate of about 711,000",
+    "url": "https://www.un.org/unispal/document/auto-insert-211411",
+    "type": "primary"
+   },
+   {
+    "title": "McGill University, Palestinian Refugee ResearchNet — Palestinian refugees: an overview (range of estimates)",
+    "url": "https://prrn.mcgill.ca/prrn/proverview.html",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: 1948 Arab–Israeli War",
+    "url": "https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: 1948 Palestinian expulsion and flight",
+    "url": "https://en.wikipedia.org/wiki/1948_Palestinian_expulsion_and_flight",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Jewish exodus from the Muslim world",
+    "url": "https://en.wikipedia.org/wiki/Jewish_exodus_from_the_Muslim_world",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "1948: The Refugee Question",
+    "he": "1948: שאלת הפליטים"
+   },
+   "date": {
+    "en": "1947–1949",
+    "he": "1947–1949"
+   },
+   "category": "history"
+  },
+  "tags": [
+   "1948",
+   "refugees",
+   "narratives"
+  ],
+  "clue": {
+   "en": "It was hundreds of thousands.",
+   "he": "מדובר במאות אלפים."
+  },
+  "theme": "record",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "hist-golan",
+  "type": "map",
+  "difficulty": "normal",
+  "year": "1967",
+  "animationType": "map:golan",
+  "situation": {
+   "en": "June 1967. Egypt has closed the Straits of Tiran to Israeli shipping — which Israel had long declared a cause for war — and Arab armies are massing on its borders.",
+   "he": "יוני 1967. מצרים סגרה את מצרי טיראן לשיט ישראלי – צעד שישראל הגדירה זה מכבר עילה למלחמה – וצבאות ערב מתרכזים לאורך גבולותיה."
+  },
+  "context": [
+   {
+    "en": "Israel strikes first on 5 June. Jordan and Syria join the war; within six days Israel holds Sinai, Gaza, the West Bank and East Jerusalem.",
+    "he": "ישראל תוקפת ראשונה ב-5 ביוני. ירדן וסוריה מצטרפות למלחמה; בתוך שישה ימים ישראל מחזיקה בסיני, בעזה, בגדה המערבית ובמזרח ירושלים."
+   },
+   {
+    "en": "In the war's final two days, Israeli forces climb a strategic plateau from which Syrian guns had shelled Israeli communities below.",
+    "he": "ביומיים האחרונים של המלחמה עולים כוחות צה״ל לרמה אסטרטגית שממנה הפגיזו תותחים סוריים את היישובים הישראליים שלמטה."
+   }
+  ],
+  "question": {
+   "en": "Tap the plateau Israel captured from Syria.",
+   "he": "הקישו על הרמה שישראל כבשה מסוריה."
+  },
+  "answers": [
+   {
+    "id": "sinai"
+   },
+   {
+    "id": "gaza"
+   },
+   {
+    "id": "westbank"
+   },
+   {
+    "id": "golan"
+   }
+  ],
+  "correctAnswer": "golan",
+  "explanation": {
+   "en": "Israel captured the Golan Heights from Syria on 9–10 June 1967, after Syrian positions there had shelled Israeli communities in the valley below. In December 1981 the Knesset applied Israeli law there; UN Security Council Resolution 497, adopted unanimously, declared that move null and void.",
+   "he": "ישראל כבשה את רמת הגולן מסוריה ב-9–10 ביוני 1967, לאחר שעמדות סוריות שם הפגיזו את היישובים הישראליים בעמק שמתחת. בדצמבר 1981 החילה הכנסת את החוק הישראלי על השטח; החלטה 497 של מועצת הביטחון, שהתקבלה פה אחד, קבעה שהצעד בטל ומבוטל."
+  },
+  "didYouKnow": {
+   "en": "The United States voted for Resolution 497 in 1981. In 2019 it became the first country to recognize Israeli sovereignty over the Golan; the UN and most other countries still regard it as Syrian territory under occupation.",
+   "he": "ארה״ב הצביעה בעד החלטה 497 ב-1981. ב-2019 היא הייתה למדינה הראשונה שהכירה בריבונות ישראל בגולן; האו״ם ורוב המדינות עדיין רואים בו שטח סורי כבוש."
+  },
+  "sources": [
+   {
+    "title": "UN Security Council Resolution 497, 17 December 1981 — text",
+    "url": "https://www.un.org/unispal/document/auto-insert-180751",
+    "type": "primary"
+   },
+   {
+    "title": "The White House — Proclamation on Recognizing the Golan Heights as Part of the State of Israel (25 March 2019)",
+    "url": "https://trumpwhitehouse.archives.gov/presidential-actions/proclamation-recognizing-golan-heights-part-state-israel",
+    "type": "primary"
+   },
+   {
+    "title": "Wikipedia: Golan Heights Law",
+    "url": "https://en.wikipedia.org/wiki/Golan_Heights_Law",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Six-Day War",
+    "url": "https://en.wikipedia.org/wiki/Six-Day_War",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "The Golan Heights",
+    "he": "רמת הגולן"
+   },
+   "date": {
+    "en": "June 10, 1967",
+    "he": "10 ביוני 1967"
+   },
+   "category": "war"
+  },
+  "tags": [
+   "map",
+   "1967",
+   "syria"
+  ],
+  "clue": {
+   "en": "It overlooks the Sea of Galilee from the north-east.",
+   "he": "היא משקיפה על הכנרת מצפון-מזרח."
+  },
+  "theme": "war",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "hist-yomkippur",
+  "type": "truefalse",
+  "difficulty": "normal",
+  "year": "1973",
+  "animationType": "tactical",
+  "situation": {
+   "en": "6 October 1973, early afternoon. Much of Israel is fasting, at synagogue, or at home.",
+   "he": "6 באוקטובר 1973, שעות הצהריים המוקדמות. רוב ישראל צמה, בבית הכנסת או בבית."
+  },
+  "context": [
+   {
+    "en": "Israeli military intelligence had assessed a full-scale war as unlikely.",
+    "he": "המודיעין הצבאי העריך שמלחמה כוללת אינה סבירה."
+   },
+   {
+    "en": "Reservists are called up from synagogues across the country.",
+    "he": "אנשי מילואים מגויסים מבתי כנסת ברחבי הארץ."
+   }
+  ],
+  "question": {
+   "en": "The Yom Kippur War began with a coordinated surprise attack by Egypt and Syria on the holiest day of the Jewish year.",
+   "he": "מלחמת יום הכיפורים החלה במתקפת פתע מתואמת של מצרים וסוריה ביום הקדוש ביותר בלוח השנה היהודי."
+  },
+  "correctAnswer": "true",
+  "explanation": {
+   "en": "Egyptian forces crossed the Suez Canal while Syrian forces attacked on the Golan at the same time. After heavy early losses, Israel pushed back on both fronts and crossed the canal; the fighting ended with UN-called ceasefires in late October.",
+   "he": "כוחות מצרים חצו את תעלת סואץ ובאותה שעה תקפו כוחות סוריה ברמת הגולן. לאחר אבדות כבדות בתחילה הדפה ישראל את הצבאות בשתי החזיתות וחצתה את התעלה; הלחימה הסתיימה בהפסקות אש שהאו״ם קרא להן בסוף אוקטובר."
+  },
+  "didYouKnow": {
+   "en": "An official inquiry, the Agranat Commission, examined the intelligence failure. It did not blame Prime Minister Golda Meir directly — yet she announced her government's resignation in April 1974, nine days after its interim report.",
+   "he": "ועדת חקירה ממלכתית, ועדת אגרנט, בחנה את הכשל המודיעיני. היא לא הטילה אחריות ישירה על ראש הממשלה גולדה מאיר – ובכל זאת מאיר הודיעה על התפטרות ממשלתה באפריל 1974, תשעה ימים אחרי פרסום הדוח הביניים."
+  },
+  "sources": [
+   {
+    "title": "Israel State Archives — The Yom Kippur War: a decisive moment in Israel’s history",
+    "url": "https://catalog.archives.gov.il/en/?p=26685",
+    "type": "official"
+   },
+   {
+    "title": "Economic Cooperation Foundation — 1973 War",
+    "url": "https://ecf.org.il/issues/issue/878",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Agranat Commission",
+    "url": "https://en.wikipedia.org/wiki/Agranat_Commission",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Yom Kippur War",
+    "he": "מלחמת יום הכיפורים"
+   },
+   "date": {
+    "en": "Oct 6, 1973",
+    "he": "6 באוקטובר 1973"
+   },
+   "category": "war"
+  },
+  "tags": [
+   "1973",
+   "war"
+  ],
+  "clue": {
+   "en": "Check the date: what day was 6 October 1973 in the Jewish calendar?",
+   "he": "בדקו את התאריך: איזה יום היה 6 באוקטובר 1973 בלוח העברי?"
+  },
+  "theme": "war",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "hist-partition",
+  "type": "mc",
+  "difficulty": "hard",
+  "year": "1947",
+  "animationType": "document",
+  "situation": {
+   "en": "29 November 1947. The UN General Assembly votes on the future of British Mandate Palestine.",
+   "he": "29 בנובמבר 1947. העצרת הכללית של האו״ם מצביעה על עתידה של ארץ ישראל המנדטורית."
+  },
+  "context": [
+   {
+    "en": "The plan: a Jewish state, an Arab state, and Jerusalem under an international regime.",
+    "he": "התוכנית: מדינה יהודית, מדינה ערבית, וירושלים תחת משטר בינלאומי."
+   },
+   {
+    "en": "Resolution 181 passes: 33 in favor, 13 against, 10 abstentions.",
+    "he": "החלטה 181 מתקבלת: 33 בעד, 13 נגד, 10 נמנעים."
+   }
+  ],
+  "question": {
+   "en": "How did each side's leadership respond?",
+   "he": "כיצד הגיבה הנהגת כל צד?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "Both sides accepted",
+     "he": "שני הצדדים קיבלו"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "Both sides rejected",
+     "he": "שני הצדדים דחו"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "The Jewish Agency accepted; the Arab Higher Committee and Arab states rejected",
+     "he": "הסוכנות היהודית קיבלה; הוועד הערבי העליון ומדינות ערב דחו"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "The Arab Higher Committee accepted; the Jewish Agency rejected",
+     "he": "הוועד הערבי העליון קיבל; הסוכנות היהודית דחתה"
+    }
+   }
+  ],
+  "correctAnswer": "c",
+  "explanation": {
+   "en": "Jewish leaders accepted the plan despite reservations about its borders and Jerusalem. The Arab Higher Committee and Arab League states rejected it, arguing it violated the rights of the Arab majority. Fighting broke out almost immediately.",
+   "he": "ההנהגה היהודית קיבלה את התוכנית למרות הסתייגויות לגבי הגבולות וירושלים. הוועד הערבי העליון ומדינות הליגה הערבית דחו אותה בטענה שהיא פוגעת בזכויות הרוב הערבי. הלחימה פרצה כמעט מיד."
+  },
+  "didYouKnow": {
+   "en": "The plan was never implemented — of the two states it proposed, only Israel came into being. Since 1977, the UN has marked 29 November, the date of the vote, as the International Day of Solidarity with the Palestinian People.",
+   "he": "התוכנית מעולם לא יושמה – מבין שתי המדינות שהציעה, קמה רק ישראל. מאז 1977 מציין האו״ם את 29 בנובמבר, יום ההצבעה, כיום הסולידריות הבינלאומי עם העם הפלסטיני."
+  },
+  "sources": [
+   {
+    "title": "UN General Assembly Resolution 181, 29 November 1947 — text and vote (Fordham Modern History Sourcebook)",
+    "url": "https://sourcebooks.web.fordham.edu/mod/1947UN181.asp",
+    "type": "primary"
+   },
+   {
+    "title": "United Nations — International Day of Solidarity with the Palestinian People (information note)",
+    "url": "https://www.un.org/unispal/?p=208695",
+    "type": "official"
+   },
+   {
+    "title": "Wikipedia: United Nations Partition Plan for Palestine",
+    "url": "https://en.wikipedia.org/wiki/United_Nations_Partition_Plan_for_Palestine",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "UN Partition Plan",
+    "he": "תוכנית החלוקה"
+   },
+   "date": {
+    "en": "Nov 29, 1947",
+    "he": "29 בנובמבר 1947"
+   },
+   "category": "history"
+  },
+  "tags": [
+   "1947",
+   "un"
+  ],
+  "clue": {
+   "en": "That night, one side celebrated in the streets.",
+   "he": "באותו לילה צד אחד חגג ברחובות."
+  },
+  "theme": "founding",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ }
+]

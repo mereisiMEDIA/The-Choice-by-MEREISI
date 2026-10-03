@@ -1,0 +1,620 @@
+[
+ {
+  "id": "imp-entebbe",
+  "type": "decision",
+  "difficulty": "normal",
+  "year": "1976",
+  "animationType": "tactical",
+  "timed": true,
+  "situation": {
+   "en": "June 1976. An Air France flight from Tel Aviv to Paris is hijacked and flown to Entebbe, Uganda — about 4,000 km from Israel.",
+   "he": "יוני 1976. טיסת אייר פראנס מתל אביב לפריז נחטפת ומונחתת באנטבה שבאוגנדה – כ-4,000 ק״מ מישראל."
+  },
+  "context": [
+   {
+    "en": "The hijackers free most non-Israeli passengers. About 94 passengers, mostly Israelis and Jews, remain hostage — together with the 12-member Air France crew.",
+    "he": "החוטפים משחררים את רוב הנוסעים שאינם ישראלים. כ-94 נוסעים, רובם ישראלים ויהודים, נשארים בני ערובה – יחד עם 12 אנשי צוות אייר פראנס."
+   },
+   {
+    "en": "Uganda's ruler, Idi Amin, appears to be cooperating with the hijackers, who demand the release of prisoners held in Israel and other countries.",
+    "he": "שליט אוגנדה, אידי אמין, נראה משתף פעולה עם החוטפים, הדורשים לשחרר אסירים בישראל ובמדינות נוספות."
+   }
+  ],
+  "question": {
+   "en": "You have days, not weeks. What do you do?",
+   "he": "יש לכם ימים, לא שבועות. מה תעשו?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "Negotiate and release the prisoners",
+     "he": "לנהל משא ומתן ולשחרר את האסירים"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "Launch a long-range rescue raid",
+     "he": "לצאת למבצע חילוץ למרחק רב"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "Rely on Idi Amin to free the hostages",
+     "he": "לסמוך על אידי אמין שישחרר את החטופים"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "Wait for international pressure to work",
+     "he": "לחכות שהלחץ הבינלאומי יפעל"
+    }
+   }
+  ],
+  "correctAnswer": "b",
+  "explanation": {
+   "en": "Israel's cabinet approved the raid while the planes were already in the air. On the night of 3–4 July 1976, commandos flew about 4,000 km to Entebbe and freed 102 of the 106 hostages. Three hostages were killed in the raid; a fourth, Dora Bloch, had been taken to a Kampala hospital and was murdered afterwards. The unit's commander, Yonatan Netanyahu, was the only Israeli soldier killed.",
+   "he": "הממשלה אישרה את המבצע כשהמטוסים כבר היו באוויר. בליל 3–4 ביולי 1976 טסו לוחמי צה״ל כ-4,000 ק״מ לאנטבה ושחררו 102 מתוך 106 בני הערובה. שלושה בני ערובה נהרגו בפשיטה; רביעית, דורה בלוך, שהועברה לבית חולים בקמפלה, נרצחה לאחר מכן. מפקד הכוח, יונתן נתניהו, היה החייל הישראלי היחיד שנהרג."
+  },
+  "didYouKnow": {
+   "en": "Air France captain Michel Bacos refused to leave his passengers when the hijackers offered to free him — and his entire crew stayed with him.",
+   "he": "קברניט אייר פראנס, מישל בקוס, סירב לעזוב את נוסעיו כשהחוטפים הציעו לשחררו – וכל הצוות שלו נשאר איתו."
+  },
+  "sources": [
+   {
+    "title": "National Library of Israel — Entebbe Airport Raid, 1976 (authority record)",
+    "url": "https://nli.org.il/en/authorities/987007550675905171",
+    "type": "official"
+   },
+   {
+    "title": "EBSCO Research Starters — Israeli Raid on Entebbe",
+    "url": "https://www.ebsco.com/research-starters/history/israeli-raid-entebbe/",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Entebbe raid",
+    "url": "https://en.wikipedia.org/wiki/Entebbe_raid",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Operation Entebbe",
+    "he": "מבצע אנטבה"
+   },
+   "date": {
+    "en": "July 4, 1976",
+    "he": "4 ביולי 1976"
+   },
+   "category": "security"
+  },
+  "tags": [
+   "rescue",
+   "hostages"
+  ],
+  "clue": {
+   "en": "Israel had a firm policy against freeing prisoners for hostages — and the deadline was days away.",
+   "he": "לישראל הייתה מדיניות נחרצת נגד שחרור אסירים תמורת בני ערובה – והמועד האחרון היה בעוד ימים."
+  },
+  "theme": "rescue",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "imp-osirak",
+  "type": "decision",
+  "difficulty": "hard",
+  "year": "1981",
+  "animationType": "tactical",
+  "timed": true,
+  "situation": {
+   "en": "1981. Iraq is building a nuclear reactor near Baghdad with French assistance.",
+   "he": "1981. עיראק בונה כור גרעיני ליד בגדאד בסיוע צרפתי."
+  },
+  "context": [
+   {
+    "en": "Israel's government believes the reactor could help Iraq produce material for a nuclear weapon. Iraq says it is for research.",
+    "he": "ממשלת ישראל סבורה שהכור עלול לסייע לעיראק להפיק חומר לנשק גרעיני. עיראק טוענת שהוא נועד למחקר."
+   },
+   {
+    "en": "Diplomatic efforts to stop the project have failed.",
+    "he": "המאמצים הדיפלומטיים לעצור את הפרויקט נכשלו."
+   }
+  ],
+  "question": {
+   "en": "What did Israel decide?",
+   "he": "מה החליטה ישראל?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "Accept the project and rely on inspections",
+     "he": "לקבל את הפרויקט ולסמוך על פיקוח"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "Destroy the reactor in an air strike",
+     "he": "להשמיד את הכור בתקיפה אווירית"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "Ask the UN Security Council to halt it",
+     "he": "לבקש ממועצת הביטחון לעצור אותו"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "Launch a ground operation",
+     "he": "לצאת למבצע קרקעי"
+    }
+   }
+  ],
+  "correctAnswer": "b",
+  "explanation": {
+   "en": "On 7 June 1981, Israeli F-16s destroyed the Osirak reactor before it was loaded with fuel. The UN Security Council — including the United States — unanimously condemned the strike in Resolution 487, and Washington briefly held up a delivery of F-16s to Israel.",
+   "he": "ב-7 ביוני 1981 השמידו מטוסי F-16 ישראליים את הכור אוסיראק לפני שהוטען בדלק. מועצת הביטחון – כולל ארה״ב – גינתה פה אחד את התקיפה בהחלטה 487, ווושינגטון אף עיכבה לזמן קצר משלוח מטוסי F-16 לישראל."
+  },
+  "didYouKnow": {
+   "en": "Historians still debate the effect: some argue the strike set Iraq's program back years; others argue it pushed Iraq toward a larger, more secret weapons effort.",
+   "he": "היסטוריונים עדיין חלוקים על התוצאה: יש הטוענים שהתקיפה עיכבה את התוכנית העיראקית בשנים; אחרים טוענים שדחפה את עיראק למאמץ נשק גדול וחשאי יותר."
+  },
+  "sources": [
+   {
+    "title": "United Nations University — UN responses to the attack on Iraq’s nuclear installations (1981)",
+    "url": "https://assemblyforpeace.unu.edu/?p=75",
+    "type": "official"
+   },
+   {
+    "title": "Wilson Center — A Lesson from the 1981 Raid on Osirak",
+    "url": "https://www.wilsoncenter.org/blog-post/lesson-the-1981-raid-osirak",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Operation Opera",
+    "url": "https://en.wikipedia.org/wiki/Operation_Opera",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Operation Opera",
+    "he": "מבצע אופרה"
+   },
+   "date": {
+    "en": "June 7, 1981",
+    "he": "7 ביוני 1981"
+   },
+   "category": "security"
+  },
+  "tags": [
+   "iraq",
+   "nuclear"
+  ],
+  "clue": {
+   "en": "Israel believed the window would close once the reactor was loaded with fuel.",
+   "he": "ישראל העריכה שהחלון ייסגר ברגע שהכור יוטען בדלק."
+  },
+  "theme": "risk",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "imp-boatpeople",
+  "type": "truefalse",
+  "difficulty": "hard",
+  "year": "1977",
+  "animationType": "document",
+  "situation": {
+   "en": "June 1977. An Israeli cargo ship in the South China Sea finds a sinking boat full of people fleeing Vietnam.",
+   "he": "יוני 1977. ספינת משא ישראלית בים סין הדרומי מאתרת סירה טובעת מלאה באנשים שנמלטו מווייטנאם."
+  },
+  "context": [
+   {
+    "en": "The ship, the Yuvali, takes 66 people aboard.",
+    "he": "הספינה, ״יובלי״, מעלה לסיפונה 66 איש."
+   },
+   {
+    "en": "Nearby ports refuse to let them disembark.",
+    "he": "נמלים סמוכים מסרבים לאפשר להם לרדת לחוף."
+   }
+  ],
+  "question": {
+   "en": "Israel's new prime minister, Menachem Begin, granted the 66 refugees asylum in Israel.",
+   "he": "ראש הממשלה החדש, מנחם בגין, העניק ל-66 הפליטים מקלט בישראל."
+  },
+  "correctAnswer": "true",
+  "explanation": {
+   "en": "Begin announced the decision in the Knesset in June 1977, one of his first acts as prime minister. He later explained it to President Carter by recalling the St. Louis, a ship of Jewish refugees turned away from port after port in 1939. Israel took in about 300 Vietnamese refugees by 1979.",
+   "he": "בגין הודיע על ההחלטה בכנסת ביוני 1977, באחד מצעדיו הראשונים כראש ממשלה. לימים הסביר אותה לנשיא קרטר בהזכירו את ״סנט לואיס״ – ספינה של פליטים יהודים שנדחתה מנמל לנמל ב-1939. עד 1979 קלטה ישראל כ-300 פליטים מווייטנאם."
+  },
+  "didYouKnow": {
+   "en": "Japan, Hong Kong and Taiwan had all refused the refugees. Taiwan let them off the ship only once they held Israeli papers.",
+   "he": "יפן, הונג קונג וטייוואן סירבו כולן לקלוט את הפליטים. טייוואן הרשתה להם לרדת מהספינה רק כשהחזיקו במסמכים ישראליים."
+  },
+  "sources": [
+   {
+    "title": "JTA Daily Bulletin, 27 June 1977 — Vietnamese Refugees Arrive in Israel (contemporary report)",
+    "url": "https://jta.org/archive/vietnamese-refugees-arrive-in-israel",
+    "type": "primary"
+   },
+   {
+    "title": "The Canadian Jewish News — Begin and the Vietnamese boat people",
+    "url": "https://www.cjnews.com/?p=167739",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Vietnamese refugees in Israel",
+    "url": "https://en.wikipedia.org/wiki/Vietnamese_refugees_in_Israel",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "The Boat People",
+    "he": "פליטי הסירות"
+   },
+   "date": {
+    "en": "June 1977",
+    "he": "יוני 1977"
+   },
+   "category": "humanitarian"
+  },
+  "tags": [
+   "refugees",
+   "humanitarian"
+  ],
+  "clue": {
+   "en": "Japan, Hong Kong and Taiwan had all said no.",
+   "he": "יפן, הונג קונג וטייוואן אמרו כולן לא."
+  },
+  "theme": "rescue",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "imp-solomon",
+  "type": "decision",
+  "difficulty": "normal",
+  "year": "1991",
+  "animationType": "tactical",
+  "timed": true,
+  "situation": {
+   "en": "May 1991. Rebel forces close in on Ethiopia's capital, Addis Ababa. The regime is collapsing.",
+   "he": "מאי 1991. כוחות המורדים מתקרבים לבירת אתיופיה, אדיס אבבה. המשטר קורס."
+  },
+  "context": [
+   {
+    "en": "About 14,000 Ethiopian Jews are waiting in the city, many after long journeys from their villages.",
+    "he": "כ-14,000 יהודי אתיופיה ממתינים בעיר, רבים מהם אחרי מסע ארוך מכפריהם."
+   },
+   {
+    "en": "The window may close within days.",
+    "he": "החלון עלול להיסגר בתוך ימים."
+   }
+  ],
+  "question": {
+   "en": "What would you do?",
+   "he": "מה הייתם עושים?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "Evacuate them gradually over several months",
+     "he": "לפנות אותם בהדרגה במשך כמה חודשים"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "Airlift them all in one non-stop operation",
+     "he": "להטיס את כולם במבצע רצוף אחד"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "Wait until the fighting is over",
+     "he": "לחכות עד שהלחימה תסתיים"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "Ask a third country to host them temporarily",
+     "he": "לבקש ממדינה שלישית לארח אותם זמנית"
+    }
+   }
+  ],
+  "correctAnswer": "b",
+  "explanation": {
+   "en": "In Operation Solomon, 35 aircraft flew non-stop for about 36 hours on 24–25 May 1991, bringing 14,325 Ethiopian Jews to Israel. A few days later, Addis Ababa fell to the rebels.",
+   "he": "במבצע שלמה טסו 35 מטוסים ברציפות במשך כ-36 שעות ב-24–25 במאי 1991, והביאו לישראל 14,325 יהודים מאתיופיה. ימים אחדים לאחר מכן נפלה אדיס אבבה בידי המורדים."
+  },
+  "didYouKnow": {
+   "en": "One El Al Boeing 747 carried about 1,088 people on a single flight — including two babies born on board. It is still the world record for passengers on one aircraft.",
+   "he": "מטוס בואינג 747 אחד של אל על נשא בטיסה אחת כ-1,088 בני אדם – כולל שני תינוקות שנולדו בטיסה. זה עדיין שיא העולם למספר נוסעים במטוס אחד."
+  },
+  "sources": [
+   {
+    "title": "The Jewish Agency for Israel — Operation Solomon",
+    "url": "https://www.jewishagency.org/?p=27604",
+    "type": "official"
+   },
+   {
+    "title": "The Christian Science Monitor, 28 May 1991 — Ethiopian Jews Arrive To Israel’s Open Arms (contemporary report)",
+    "url": "https://www.csmonitor.com/1991/0528/28032.html",
+    "type": "primary"
+   },
+   {
+    "title": "Guinness World Records — Most passengers on an aircraft",
+    "url": "https://www.guinnessworldrecords.com/world-records/most-passengers-on-an-aircraft/",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Operation Solomon",
+    "he": "מבצע שלמה"
+   },
+   "date": {
+    "en": "May 24, 1991",
+    "he": "24 במאי 1991"
+   },
+   "category": "humanitarian"
+  },
+  "tags": [
+   "airlift",
+   "ethiopia"
+  ],
+  "clue": {
+   "en": "The rebels took the capital just days later.",
+   "he": "המורדים כבשו את הבירה ימים ספורים לאחר מכן."
+  },
+  "theme": "rescue",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "imp-disengagement",
+  "type": "map",
+  "difficulty": "normal",
+  "year": "2005",
+  "animationType": "map:gaza",
+  "situation": {
+   "en": "August 2005. Prime Minister Ariel Sharon carries out a plan that many of his own supporters fiercely oppose.",
+   "he": "אוגוסט 2005. ראש הממשלה אריאל שרון מבצע תוכנית שרבים מתומכיו מתנגדים לה בחריפות."
+  },
+  "context": [
+   {
+    "en": "Around 8,000 Israelis are evacuated from 21 settlements.",
+    "he": "כ-8,000 ישראלים מפונים מ-21 יישובים."
+   },
+   {
+    "en": "The army withdraws entirely from the territory. No agreement is signed with anyone.",
+    "he": "הצבא נסוג כליל מהשטח. שום הסכם אינו נחתם."
+   }
+  ],
+  "question": {
+   "en": "Tap the territory Israel withdrew from.",
+   "he": "הקישו על השטח שממנו נסוגה ישראל."
+  },
+  "answers": [
+   {
+    "id": "sinai"
+   },
+   {
+    "id": "gaza"
+   },
+   {
+    "id": "westbank"
+   },
+   {
+    "id": "golan"
+   }
+  ],
+  "correctAnswer": "gaza",
+  "explanation": {
+   "en": "Israel removed all settlements and troops from Gaza in 2005 but kept control of its airspace, coastline and most crossings. Whether Gaza remained \"occupied\" is disputed: the UN and many legal experts say yes; Israel says no. Hamas won the 2006 Palestinian Authority elections and seized control of Gaza in 2007.",
+   "he": "ישראל פינתה את כל היישובים והכוחות מעזה ב-2005, אך שמרה על שליטה במרחב האווירי, בחוף וברוב המעברים. האם עזה נותרה ״כבושה״ – שנוי במחלוקת: האו״ם ומומחי משפט רבים אומרים שכן; ישראל אומרת שלא. חמאס ניצח בבחירות לרשות הפלסטינית ב-2006 ותפס את השליטה בעזה ב-2007."
+  },
+  "didYouKnow": {
+   "en": "The plan also evacuated four small settlements in the northern West Bank.",
+   "he": "התוכנית כללה גם פינוי של ארבעה יישובים קטנים בצפון השומרון."
+  },
+  "sources": [
+   {
+    "title": "United Nations, Division for Palestinian Rights — monthly bulletin, August 2005",
+    "url": "https://unispal.un.org/pdfs/5978769D848713A485257062004D8378.pdf",
+    "type": "official"
+   },
+   {
+    "title": "Wikipedia: Israeli disengagement from Gaza",
+    "url": "https://en.wikipedia.org/wiki/Israeli_disengagement_from_Gaza",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "The Disengagement",
+    "he": "ההתנתקות"
+   },
+   "date": {
+    "en": "Aug 2005",
+    "he": "אוגוסט 2005"
+   },
+   "category": "security"
+  },
+  "tags": [
+   "map",
+   "gaza"
+  ],
+  "ledger": [
+   {
+    "id": "gaza-evacuated",
+    "value": {
+     "en": "21",
+     "he": "21"
+    },
+    "label": {
+     "en": "Settlements evacuated from Gaza — about 8,000 residents relocated",
+     "he": "יישובים פונו מרצועת עזה – כ-8,000 תושבים הועתקו"
+    },
+    "source": {
+     "title": "United Nations, Division for Palestinian Rights — monthly bulletin, August 2005",
+     "url": "https://unispal.un.org/pdfs/5978769D848713A485257062004D8378.pdf",
+     "type": "official"
+    }
+   }
+  ],
+  "clue": {
+   "en": "It borders Egypt and the Mediterranean.",
+   "he": "היא גובלת במצרים ובים התיכון."
+  },
+  "theme": "risk",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "imp-shalit",
+  "type": "mc",
+  "difficulty": "hard",
+  "year": "2011",
+  "animationType": "document",
+  "situation": {
+   "en": "June 2006. Militants including Hamas capture Israeli soldier Gilad Shalit in a cross-border raid. He is held in Gaza for more than five years.",
+   "he": "יוני 2006. מחבלים, בהם אנשי חמאס, חוטפים את החייל גלעד שליט בפשיטה חוצת גבול. הוא מוחזק בעזה יותר מחמש שנים."
+  },
+  "context": [
+   {
+    "en": "Negotiations run through Egyptian and German mediators.",
+    "he": "המשא ומתן מתנהל באמצעות מתווכים מצרים וגרמנים."
+   },
+   {
+    "en": "Hamas demands the release of a large number of prisoners, many convicted of deadly attacks, in return for one soldier.",
+    "he": "חמאס דורש לשחרר מספר גדול של אסירים, רבים מהם מורשעים בפיגועים קטלניים, תמורת חייל אחד."
+   }
+  ],
+  "question": {
+   "en": "How many prisoners did Israel release in exchange for Shalit in 2011?",
+   "he": "כמה אסירים שחררה ישראל תמורת שליט ב-2011?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "27",
+     "he": "27"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "127",
+     "he": "127"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "1,027",
+     "he": "1,027"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "10,027",
+     "he": "10,027"
+    }
+   }
+  ],
+  "correctAnswer": "c",
+  "explanation": {
+   "en": "Israel agreed to release 1,027 prisoners — 477 on 18 October 2011, the day Shalit came home, and 550 two months later. Many were serving life sentences for deadly attacks. A poll the day before showed 79% of Israelis supported the deal, while critics warned it would encourage future kidnappings.",
+   "he": "ישראל הסכימה לשחרר 1,027 אסירים – 477 ב-18 באוקטובר 2011, היום שבו שב שליט הביתה, ו-550 כעבור חודשיים. רבים מהם ריצו מאסרי עולם על פיגועים קטלניים. סקר מהיום הקודם הראה ש-79% מהישראלים תומכים בעסקה, בעוד מבקרים הזהירו שתעודד חטיפות נוספות."
+  },
+  "didYouKnow": {
+   "en": "Among those released was Yahya Sinwar, who later became Hamas's leader in Gaza.",
+   "he": "בין המשוחררים היה יחיא סינוואר, שלימים הפך למנהיג חמאס ברצועת עזה."
+  },
+  "sources": [
+   {
+    "title": "CBS News / AP, 17 October 2011 — Israelis widely back militants-for-soldier swap (contemporary report)",
+    "url": "https://www.cbsnews.com/news/israelis-widely-back-militants-for-soldier-swap/",
+    "type": "primary"
+   },
+   {
+    "title": "Ynetnews — Poll: 79% of Israelis support Shalit deal",
+    "url": "https://www.ynetnews.com/article/4135847",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Gilad Shalit prisoner exchange",
+    "url": "https://en.wikipedia.org/wiki/Gilad_Shalit_prisoner_exchange",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "The Shalit Deal",
+    "he": "עסקת שליט"
+   },
+   "date": {
+    "en": "Oct 18, 2011",
+    "he": "18 באוקטובר 2011"
+   },
+   "category": "security"
+  },
+  "tags": [
+   "hostages",
+   "dilemma"
+  ],
+  "ledger": [
+   {
+    "id": "shalit-exchange",
+    "value": {
+     "en": "1,027",
+     "he": "1,027"
+    },
+    "label": {
+     "en": "Prisoners released in exchange for one captive soldier",
+     "he": "אסירים שוחררו תמורת חייל שבוי אחד"
+    },
+    "source": {
+     "title": "CBS News / AP, 17 October 2011 — Israelis widely back militants-for-soldier swap (contemporary report)",
+     "url": "https://www.cbsnews.com/news/israelis-widely-back-militants-for-soldier-swap/",
+     "type": "primary"
+    }
+   }
+  ],
+  "clue": {
+   "en": "It was more than a thousand.",
+   "he": "זה היה יותר מאלף."
+  },
+  "theme": "risk",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ }
+]

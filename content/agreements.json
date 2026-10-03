@@ -1,0 +1,628 @@
+[
+ {
+  "id": "agr-oslo-norway",
+  "type": "mc",
+  "difficulty": "easy",
+  "year": "1993",
+  "animationType": "diplomacy",
+  "situation": {
+   "en": "1993. Officially, Israel and the PLO do not negotiate with each other. Unofficially, something else is happening.",
+   "he": "1993. באופן רשמי, ישראל ואש״ף אינם מנהלים משא ומתן. באופן לא רשמי, קורה משהו אחר."
+  },
+  "context": [
+   {
+    "en": "A small group of Israeli academics and PLO officials meet in secret; Israeli government officials later join.",
+    "he": "קבוצה קטנה של אקדמאים ישראלים ונציגי אש״ף נפגשת בחשאי; בהמשך מצטרפים פקידי ממשל ישראלים."
+   },
+   {
+    "en": "The talks are hosted far from the Middle East, by a foreign ministry and a research institute.",
+    "he": "השיחות מתארחות הרחק מהמזרח התיכון, אצל משרד חוץ ומכון מחקר."
+   }
+  ],
+  "question": {
+   "en": "Which country secretly hosted the talks?",
+   "he": "איזו מדינה אירחה את השיחות בחשאי?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "Norway",
+     "he": "נורווגיה"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "Switzerland",
+     "he": "שווייץ"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "Sweden",
+     "he": "שוודיה"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "United States",
+     "he": "ארצות הברית"
+    }
+   }
+  ],
+  "correctAnswer": "a",
+  "explanation": {
+   "en": "The back-channel in and around Oslo produced the Declaration of Principles, signed on the White House lawn on 13 September 1993 — with the famous handshake between Yitzhak Rabin and Yasser Arafat.",
+   "he": "הערוץ החשאי באוסלו ובסביבתה הוליד את הצהרת העקרונות, שנחתמה על מדשאת הבית הלבן ב-13 בספטמבר 1993 – עם לחיצת היד המפורסמת בין יצחק רבין ליאסר ערפאת."
+  },
+  "didYouKnow": {
+   "en": "Days earlier the sides exchanged letters: the PLO recognized Israel's right to exist in peace and security, and Israel recognized the PLO as the representative of the Palestinian people.",
+   "he": "ימים ספורים קודם לכן החליפו הצדדים מכתבים: אש״ף הכיר בזכותה של ישראל להתקיים בשלום ובביטחון, וישראל הכירה באש״ף כנציג העם הפלסטיני."
+  },
+  "sources": [
+   {
+    "title": "Congressional Research Service — Israeli-Palestinian Agreement (report 93-797, September 1993)",
+    "url": "https://www.everycrsreport.com/reports/93-797.html",
+    "type": "official"
+   },
+   {
+    "title": "US Office of the Historian — The Oslo Accords and the Arab-Israeli Peace Process",
+    "url": "https://history.state.gov/milestones/1993-2000/oslo",
+    "type": "official"
+   },
+   {
+    "title": "Wikipedia: Israel–PLO letters of recognition",
+    "url": "https://en.wikipedia.org/wiki/Israel%E2%80%93Palestine_Liberation_Organization_letters_of_recognition",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Oslo I",
+    "he": "הסכם אוסלו א׳"
+   },
+   "date": {
+    "en": "Sept 13, 1993",
+    "he": "13 בספטמבר 1993"
+   },
+   "category": "agreements"
+  },
+  "tags": [
+   "oslo",
+   "plo"
+  ],
+  "clue": {
+   "en": "A Scandinavian foreign minister, Johan Jørgen Holst, brokered the final stage.",
+   "he": "שר חוץ סקנדינבי, יוהאן יורגן הולסט, תיווך בשלב האחרון."
+  },
+  "theme": "treaty",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "agr-oslo-state",
+  "type": "factfiction",
+  "difficulty": "normal",
+  "year": "1993",
+  "animationType": "document",
+  "situation": {
+   "en": "The handshake made headlines around the world; the text itself was far more limited.",
+   "he": "לחיצת היד עלתה לכותרות בכל העולם; הטקסט עצמו היה מצומצם בהרבה."
+  },
+  "context": [
+   {
+    "en": "It set out a five-year interim period.",
+    "he": "הוא קבע תקופת ביניים של חמש שנים."
+   },
+   {
+    "en": "The hardest issues were left for later negotiations.",
+    "he": "הסוגיות הקשות ביותר נדחו למשא ומתן מאוחר יותר."
+   }
+  ],
+  "question": {
+   "en": "The Oslo Accords established an independent Palestinian state.",
+   "he": "הסכמי אוסלו הקימו מדינה פלסטינית עצמאית."
+  },
+  "correctAnswer": "fiction",
+  "explanation": {
+   "en": "The Oslo process created the Palestinian Authority — formally established by the Gaza–Jericho Agreement of May 1994 — with limited self-rule in parts of the West Bank and Gaza. Jerusalem, refugees, borders, settlements and security were deferred to \"permanent status\" talks, which never produced a final agreement.",
+   "he": "תהליך אוסלו הקים את הרשות הפלסטינית – שהוקמה רשמית בהסכם עזה–יריחו במאי 1994 – עם שלטון עצמי מוגבל בחלקים מהגדה המערבית ועזה. ירושלים, הפליטים, הגבולות, ההתנחלויות והביטחון נדחו לשיחות על ״הסדר הקבע״, שלא הניבו הסכם סופי."
+  },
+  "didYouKnow": {
+   "en": "Yitzhak Rabin, Shimon Peres and Yasser Arafat shared the 1994 Nobel Peace Prize.",
+   "he": "יצחק רבין, שמעון פרס ויאסר ערפאת חלקו את פרס נובל לשלום לשנת 1994."
+  },
+  "sources": [
+   {
+    "title": "Agreement on the Gaza Strip and the Jericho Area, 4 May 1994 — full text",
+    "url": "https://admin.unmissions.org/sites/default/files/agreement_on_the_gaza_strip_and_the_jericho_area.pdf",
+    "type": "primary"
+   },
+   {
+    "title": "Congressional Research Service — Israeli-Palestinian Agreement (report 93-797, September 1993)",
+    "url": "https://www.everycrsreport.com/reports/93-797.html",
+    "type": "official"
+   },
+   {
+    "title": "The Nobel Prize — Yitzhak Rabin: facts (1994 Peace Prize)",
+    "url": "https://www.nobelprize.org/prizes/peace/1994/rabin/speedread/",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Oslo Accords",
+    "url": "https://en.wikipedia.org/wiki/Oslo_Accords",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "What Oslo Created",
+    "he": "מה יצר אוסלו"
+   },
+   "date": {
+    "en": "1993–1995",
+    "he": "1993–1995"
+   },
+   "category": "agreements"
+  },
+  "tags": [
+   "oslo"
+  ],
+  "ledger": [
+   {
+    "id": "gaza-jericho",
+    "value": {
+     "en": "1994",
+     "he": "1994"
+    },
+    "label": {
+     "en": "Israeli forces withdrew from most of the Gaza Strip and from Jericho, handing them to the new Palestinian Authority",
+     "he": "כוחות צה״ל נסוגו מרוב רצועת עזה ומיריחו, והעבירו אותן לרשות הפלסטינית החדשה"
+    },
+    "source": {
+     "title": "Center for Israel Education — Agreement on the Gaza Strip and Jericho Area signed (4 May 1994)",
+     "url": "https://israeled.org/agreement-gaza-strip-jericho-area-signed",
+     "type": "independent"
+    }
+   }
+  ],
+  "clue": {
+   "en": "Look at what the agreement called the period it created.",
+   "he": "שימו לב איך ההסכם קרא לתקופה שיצר."
+  },
+  "theme": "treaty",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "agr-oslo2",
+  "type": "truefalse",
+  "difficulty": "hard",
+  "year": "1995",
+  "animationType": "map:westbank",
+  "situation": {
+   "en": "September 1995. A second, far more detailed agreement maps out who controls what.",
+   "he": "ספטמבר 1995. הסכם שני, מפורט בהרבה, משרטט מי שולט במה."
+  },
+  "context": [
+   {
+    "en": "The West Bank is divided into three types of areas.",
+    "he": "הגדה המערבית מחולקת לשלושה סוגי שטחים."
+   },
+   {
+    "en": "Area A: Palestinian Authority civil and security control. Area B: Palestinian Authority civil control, with Israel keeping overriding security responsibility.",
+    "he": "שטח A: שליטה אזרחית וביטחונית של הרשות הפלסטינית. שטח B: שליטה אזרחית של הרשות הפלסטינית, וישראל שומרת על האחריות הביטחונית העליונה."
+   }
+  ],
+  "question": {
+   "en": "When Oslo II took effect in 1995, Area C — under full Israeli control — covered most of the West Bank.",
+   "he": "כשאוסלו ב׳ נכנס לתוקף ב-1995, שטח C – בשליטה ישראלית מלאה – השתרע על רוב הגדה המערבית."
+  },
+  "correctAnswer": "true",
+  "explanation": {
+   "en": "In the first phase in 1995, Area C covered roughly 72–74% of the West Bank, while Area A — which held the major Arab cities — was only about 3%. Under the 1998 Wye River Memorandum, Area C was officially reduced to about 61%, the figure usually cited today. The arrangement was meant to be temporary, pending a final-status deal that never came.",
+   "he": "בשלב הראשון, ב-1995, השתרע שטח C על כ-72–74% מהגדה המערבית, ושטח A – שכלל את הערים הערביות הגדולות – על כ-3% בלבד. בעקבות מזכר וואי (1998) הוקטן שטח C רשמית לכ-61%, הנתון שמצוטט בדרך כלל כיום. ההסדר נועד להיות זמני, עד להסכם קבע שלא הגיע."
+  },
+  "didYouKnow": {
+   "en": "The Knesset ratified Oslo II by 61 votes to 59. Less than six weeks after the signing, on 4 November 1995, Rabin was assassinated by an Israeli extremist who opposed the Oslo process.",
+   "he": "הכנסת אישרה את אוסלו ב׳ ברוב של 61 מול 59. פחות משישה שבועות אחרי החתימה, ב-4 בנובמבר 1995, נרצח רבין בידי קיצוני ישראלי שהתנגד לתהליך אוסלו."
+  },
+  "sources": [
+   {
+    "title": "US Office of the Historian — The Oslo Accords and the Arab-Israeli Peace Process",
+    "url": "https://history.state.gov/milestones/1993-2000/oslo",
+    "type": "official"
+   },
+   {
+    "title": "Economic Cooperation Foundation — Israeli-Palestinian Interim Agreement (Oslo II, 1995)",
+    "url": "https://ecf.org.il/issues/issue/818",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Area C",
+    "url": "https://en.wikipedia.org/wiki/Area_C",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: West Bank areas in the Oslo II Accord",
+    "url": "https://en.wikipedia.org/wiki/West_Bank_areas_in_the_Oslo_II_Accord",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Areas A, B and C",
+    "he": "שטחי A, ‏B ו-C"
+   },
+   "date": {
+    "en": "Sept 28, 1995",
+    "he": "28 בספטמבר 1995"
+   },
+   "category": "agreements"
+  },
+  "tags": [
+   "oslo",
+   "westbank"
+  ],
+  "ledger": [
+   {
+    "id": "area-a-cities",
+    "value": {
+     "en": "1995",
+     "he": "1995"
+    },
+    "label": {
+     "en": "The major Arab cities of the West Bank handed to full Palestinian Authority control (Area A)",
+     "he": "הערים הערביות הגדולות בגדה הועברו לשליטה מלאה של הרשות הפלסטינית (שטח A)"
+    },
+    "source": {
+     "title": "Economic Cooperation Foundation — Israeli-Palestinian Interim Agreement (Oslo II, 1995)",
+     "url": "https://ecf.org.il/issues/issue/818",
+     "type": "independent"
+    }
+   }
+  ],
+  "clue": {
+   "en": "Area A started small: it held the cities, not the open land.",
+   "he": "שטח A התחיל קטן: הוא כלל את הערים, לא את השטחים הפתוחים."
+  },
+  "theme": "price",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "agr-order",
+  "type": "order",
+  "difficulty": "normal",
+  "year": "1967–2000",
+  "animationType": "timeline",
+  "situation": {
+   "en": "Resolutions, accords, summits. The diplomatic paper trail spans decades.",
+   "he": "החלטות, הסכמים, פסגות. מסלול הניירת הדיפלומטי משתרע על פני עשורים."
+  },
+  "context": [
+   {
+    "en": "Tap the items from earliest to latest. Tap again to undo.",
+    "he": "הקישו על הפריטים מהמוקדם למאוחר. הקשה נוספת מבטלת."
+   }
+  ],
+  "question": {
+   "en": "Put them in order.",
+   "he": "סדרו אותם לפי הסדר."
+  },
+  "items": [
+   {
+    "id": "1",
+    "year": "1967",
+    "text": {
+     "en": "UN Security Council Resolution 242",
+     "he": "החלטת מועצת הביטחון 242"
+    }
+   },
+   {
+    "id": "2",
+    "year": "1973",
+    "text": {
+     "en": "UN Security Council Resolution 338",
+     "he": "החלטת מועצת הביטחון 338"
+    }
+   },
+   {
+    "id": "3",
+    "year": "1993",
+    "text": {
+     "en": "Oslo I — Declaration of Principles",
+     "he": "אוסלו א׳ – הצהרת העקרונות"
+    }
+   },
+   {
+    "id": "4",
+    "year": "1995",
+    "text": {
+     "en": "Oslo II — Interim Agreement",
+     "he": "אוסלו ב׳ – הסכם הביניים"
+    }
+   },
+   {
+    "id": "5",
+    "year": "2000",
+    "text": {
+     "en": "Camp David Summit",
+     "he": "פסגת קמפ דייוויד"
+    }
+   }
+  ],
+  "explanation": {
+   "en": "Resolution 242 (1967) set out the \"land for peace\" framework; 338 (1973) called for a ceasefire and negotiations based on it; Oslo I (1993) and Oslo II (1995) created the interim arrangements; the 2000 Camp David summit tried — and failed — to reach a final deal. Even the summit's closing statement named 242 and 338 as the basis for any agreement.",
+   "he": "החלטה 242 (1967) קבעה את מסגרת ״שטחים תמורת שלום״; 338 (1973) קראה להפסקת אש ולמשא ומתן על בסיסה; אוסלו א׳ (1993) ואוסלו ב׳ (1995) יצרו את הסדרי הביניים; פסגת קמפ דייוויד (2000) ניסתה – ונכשלה – להגיע להסכם קבע. גם ההצהרה שסגרה את הפסגה קבעה את 242 ו-338 כבסיס לכל הסכם."
+  },
+  "didYouKnow": {
+   "en": "Resolution 338 was adopted on 22 October 1973, while the Yom Kippur War was still being fought.",
+   "he": "החלטה 338 התקבלה ב-22 באוקטובר 1973, בעוד מלחמת יום הכיפורים עדיין נמשכת."
+  },
+  "sources": [
+   {
+    "title": "UN Security Council Resolution 242, 22 November 1967 — text (Avalon Project, Yale Law School)",
+    "url": "https://avalon.law.yale.edu/20th_century/un242.asp",
+    "type": "primary"
+   },
+   {
+    "title": "The White House — Trilateral Statement on the Camp David summit, 25 July 2000",
+    "url": "https://clintonwhitehouse6.archives.gov/2000/07/2000-07-25-trilateral-statement-on-middle-east-peace-talks-at-camp-david.html",
+    "type": "primary"
+   },
+   {
+    "title": "Wikipedia: UN Security Council Resolution 338",
+    "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_338",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Resolution 338",
+    "he": "החלטה 338"
+   },
+   "date": {
+    "en": "Oct 22, 1973",
+    "he": "22 באוקטובר 1973"
+   },
+   "category": "agreements"
+  },
+  "tags": [
+   "timeline",
+   "un"
+  ],
+  "clue": {
+   "en": "The two UN resolutions came first — one after each war.",
+   "he": "שתי החלטות האו״ם באו ראשונות – אחת אחרי כל מלחמה."
+  },
+  "theme": "sequence",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "agr-242",
+  "type": "source",
+  "difficulty": "hard",
+  "year": "1967",
+  "animationType": "document",
+  "situation": {
+   "en": "A historian wants to trace the origin of the \"land for peace\" formula.",
+   "he": "היסטוריונית רוצה להתחקות אחר מקור הנוסחה ״שטחים תמורת שלום״."
+  },
+  "context": [
+   {
+    "en": "The document calls for Israeli withdrawal from territories occupied in 1967.",
+    "he": "המסמך קורא לנסיגת ישראל משטחים שנכבשו ב-1967."
+   },
+   {
+    "en": "It also affirms every state's right to live in peace within secure and recognized boundaries.",
+    "he": "הוא גם מאשר את זכותה של כל מדינה לחיות בשלום בגבולות בטוחים ומוכרים."
+   }
+  ],
+  "question": {
+   "en": "Which document should she check?",
+   "he": "איזה מסמך עליה לבדוק?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "The Balfour Declaration (1917)",
+     "he": "הצהרת בלפור (1917)"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "UN General Assembly Resolution 181 (1947)",
+     "he": "החלטת העצרת הכללית 181 (1947)"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "UN Security Council Resolution 242 (1967)",
+     "he": "החלטת מועצת הביטחון 242 (1967)"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "The Oslo I Accord (1993)",
+     "he": "הסכם אוסלו א׳ (1993)"
+    }
+   }
+  ],
+  "correctAnswer": "c",
+  "explanation": {
+   "en": "Resolution 242, adopted unanimously in November 1967, pairs Israeli withdrawal with an end to belligerency and recognition of every state's right to secure and recognized boundaries. It became the reference point for most later peace efforts.",
+   "he": "החלטה 242, שהתקבלה פה אחד בנובמבר 1967, כורכת נסיגה ישראלית בסיום מצב הלוחמה ובהכרה בזכותה של כל מדינה לגבולות בטוחים ומוכרים. היא הפכה לנקודת הייחוס של רוב מאמצי השלום שבאו אחריה."
+  },
+  "didYouKnow": {
+   "en": "Its wording is famously debated: the English text calls for withdrawal \"from territories\", not \"from the territories\". Israel argues this allowed border changes; Arab states point to the French text and the principle against acquiring territory by war.",
+   "he": "הניסוח שלה שנוי במחלוקת מפורסמת: הנוסח האנגלי מדבר על נסיגה ״משטחים״ ולא ״מהשטחים״. ישראל טוענת שהדבר מאפשר שינויי גבול; מדינות ערב מצביעות על הנוסח הצרפתי ועל העיקרון האוסר רכישת שטח במלחמה."
+  },
+  "sources": [
+   {
+    "title": "UN Security Council Resolution 242, 22 November 1967 — text (Avalon Project, Yale Law School)",
+    "url": "https://avalon.law.yale.edu/20th_century/un242.asp",
+    "type": "primary"
+   },
+   {
+    "title": "Wikipedia: UN Security Council Resolution 242",
+    "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_242",
+    "type": "independent"
+   },
+   {
+    "title": "Brookings — William B. Quandt, Peace Process, Appendix A: Resolutions 242 and 338",
+    "url": "https://www.brookings.edu/wp-content/uploads/2016/07/Appendix-A.pdf",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Resolution 242",
+    "he": "החלטה 242"
+   },
+   "date": {
+    "en": "Nov 22, 1967",
+    "he": "22 בנובמבר 1967"
+   },
+   "category": "agreements"
+  },
+  "tags": [
+   "un",
+   "sources"
+  ],
+  "clue": {
+   "en": "It speaks of \"territories occupied\" — so it must come after a war that changed the map.",
+   "he": "הוא מדבר על ״שטחים שנכבשו״ – כלומר נכתב אחרי מלחמה ששינתה את המפה."
+  },
+  "theme": "treaty",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ },
+ {
+  "id": "agr-campdavid2000",
+  "type": "decision",
+  "difficulty": "hard",
+  "year": "2000",
+  "animationType": "diplomacy",
+  "situation": {
+   "en": "July 2000. Ehud Barak, Yasser Arafat and Bill Clinton spend two weeks at Camp David trying to end the conflict.",
+   "he": "יולי 2000. אהוד ברק, יאסר ערפאת וביל קלינטון מבלים שבועיים בקמפ דייוויד בניסיון לסיים את הסכסוך."
+  },
+  "context": [
+   {
+    "en": "On the table: borders, settlements, refugees, security — and Jerusalem.",
+    "he": "על השולחן: גבולות, התנחלויות, פליטים, ביטחון – וירושלים."
+   },
+   {
+    "en": "The interim period set by Oslo has already run out.",
+    "he": "תקופת הביניים שקבע אוסלו כבר הסתיימה."
+   }
+  ],
+  "question": {
+   "en": "What was the outcome?",
+   "he": "מה הייתה התוצאה?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "A final peace treaty was signed",
+     "he": "נחתם הסכם שלום סופי"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "The summit ended without an agreement",
+     "he": "הפסגה הסתיימה ללא הסכם"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "A Palestinian state was jointly declared",
+     "he": "הוכרזה במשותף מדינה פלסטינית"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "Israel annexed the Jordan Valley",
+     "he": "ישראל סיפחה את בקעת הירדן"
+    }
+   }
+  ],
+  "correctAnswer": "b",
+  "explanation": {
+   "en": "The summit ended on 25 July without an agreement. Clinton publicly praised Barak's \"courage\" and \"vision\"; Arafat's negotiators and some US participants, notably Robert Malley, later disputed the idea that a generous offer was simply rejected. Who bears responsibility remains contested.",
+   "he": "הפסגה הסתיימה ב-25 ביולי ללא הסכם. קלינטון שיבח בפומבי את ״האומץ״ ו״החזון״ של ברק; מנהלי המשא ומתן של ערפאת וחלק מהמשתתפים האמריקאים, ובראשם רוברט מאלי, חלקו לימים על הטענה שהצעה נדיבה פשוט נדחתה. שאלת האחריות נותרה במחלוקת."
+  },
+  "didYouKnow": {
+   "en": "Two months later the Second Intifada erupted. Talks continued briefly — including the \"Clinton Parameters\" of December 2000 and the Taba talks of January 2001 — without a deal.",
+   "he": "חודשיים לאחר מכן פרצה האינתיפאדה השנייה. השיחות נמשכו לזמן קצר – כולל ״מתווה קלינטון״ בדצמבר 2000 ושיחות טאבה בינואר 2001 – ללא הסכם."
+  },
+  "sources": [
+   {
+    "title": "The White House — Trilateral Statement on the Camp David summit, 25 July 2000",
+    "url": "https://clintonwhitehouse6.archives.gov/2000/07/2000-07-25-trilateral-statement-on-middle-east-peace-talks-at-camp-david.html",
+    "type": "primary"
+   },
+   {
+    "title": "President Clinton — statement and press conference after the Camp David summit (25 July 2000), transcript",
+    "url": "https://jewishvirtuallibrary.org/statement-and-press-conference-by-president-clinton-regarding-the-camp-david-summit",
+    "type": "primary"
+   },
+   {
+    "title": "Wikipedia: 2000 Camp David Summit",
+    "url": "https://en.wikipedia.org/wiki/2000_Camp_David_Summit",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Clinton Parameters",
+    "url": "https://en.wikipedia.org/wiki/Clinton_Parameters",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Camp David 2000",
+    "he": "קמפ דייוויד 2000"
+   },
+   "date": {
+    "en": "July 2000",
+    "he": "יולי 2000"
+   },
+   "category": "diplomacy"
+  },
+  "tags": [
+   "summit"
+  ],
+  "clue": {
+   "en": "At the end, the leaders issued only a short joint statement.",
+   "he": "בסוף פרסמו המנהיגים רק הצהרה משותפת קצרה."
+  },
+  "theme": "treaty",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-02"
+  }
+ }
+]

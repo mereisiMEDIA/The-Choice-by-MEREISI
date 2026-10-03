@@ -1,0 +1,642 @@
+[
+ {
+  "id": "hl-sinai-1967",
+  "type": "headline",
+  "difficulty": "easy",
+  "year": "1967",
+  "animationType": "headline",
+  "headlineText": {
+   "en": "ISRAEL SEIZES SINAI",
+   "he": "ישראל משתלטת על סיני"
+  },
+  "situation": {
+   "en": "June 1967. The headline is accurate, but it leaves out what came before.",
+   "he": "יוני 1967. הכותרת מדויקת, אבל היא משמיטה את מה שקרה לפני."
+  },
+  "context": [],
+  "question": {
+   "en": "Which missing context matters most?",
+   "he": "איזה הקשר חסר הוא החשוב ביותר?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "The weather in Sinai that week",
+     "he": "מזג האוויר בסיני באותו שבוע"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "The preceding weeks: Egypt expelled UN peacekeepers, closed the Straits of Tiran to Israeli shipping and massed troops in Sinai — then Israel struck first",
+     "he": "השבועות שקדמו: מצרים גירשה את כוח האו״ם, סגרה את מצרי טיראן לשיט ישראלי וריכזה כוחות בסיני – ואז ישראל תקפה ראשונה"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "The newspaper's circulation",
+     "he": "תפוצת העיתון"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "The name of the photographer",
+     "he": "שם הצלם"
+    }
+   }
+  ],
+  "correctAnswer": "b",
+  "explanation": {
+   "en": "Egypt expelled the UN peacekeepers, closed the Straits of Tiran to Israeli shipping and massed troops in Sinai; Israel, treating the blockade as an act of war, struck first on 5 June and took Sinai within days. An accurate headline can still mislead by leaving out what came before.",
+   "he": "מצרים גירשה את כוח החירום של האו״ם, סגרה את מצרי טיראן לשיט ישראלי וריכזה כוחות בסיני; ישראל, שראתה בחסימה מעשה מלחמה, תקפה ראשונה ב-5 ביוני וכבשה את סיני בתוך ימים. גם כותרת מדויקת יכולה להטעות כשהיא משמיטה את מה שקרה לפני."
+  },
+  "didYouKnow": {
+   "en": "Israel had stated since 1957 that closing the Straits of Tiran to its shipping would be treated as an act of war.",
+   "he": "מאז 1957 הצהירה ישראל שסגירת מצרי טיראן לשיט שלה תיחשב עילה למלחמה."
+  },
+  "sources": [
+   {
+    "title": "UN Secretary-General, report on the withdrawal of UNEF (S/7906, 26 May 1967)",
+    "url": "https://www.un.org/unispal/document/auto-insert-189106",
+    "type": "primary"
+   },
+   {
+    "title": "US Office of the Historian — FRUS 1964–1968, vol. XIX: Arab-Israeli Crisis and War, 1967 (press release)",
+    "url": "https://history.state.gov/historicaldocuments/frus1964-68v19/pressrelease",
+    "type": "official"
+   },
+   {
+    "title": "Wikipedia: Origins of the Six-Day War",
+    "url": "https://en.wikipedia.org/wiki/Origins_of_the_Six-Day_War",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Six-Day War",
+    "he": "מלחמת ששת הימים"
+   },
+   "date": {
+    "en": "June 5–10, 1967",
+    "he": "5–10 ביוני 1967"
+   },
+   "category": "war"
+  },
+  "tags": [
+   "media",
+   "1967"
+  ],
+  "clue": {
+   "en": "Look at what happened in the three weeks before 5 June.",
+   "he": "בדקו מה קרה בשלושת השבועות שלפני 5 ביוני."
+  },
+  "theme": "context",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-03"
+  }
+ },
+ {
+  "id": "hl-balfour",
+  "type": "source",
+  "difficulty": "normal",
+  "year": "1917",
+  "animationType": "document",
+  "situation": {
+   "en": "2 November 1917. A short letter sent from London will shape a century of history.",
+   "he": "2 בנובמבר 1917. מכתב קצר שנשלח מלונדון יעצב מאה שנות היסטוריה."
+  },
+  "context": [
+   {
+    "en": "It expresses British support for \"a national home for the Jewish people\" in Palestine.",
+    "he": "הוא מביע תמיכה בריטית ב״בית לאומי לעם היהודי״ בארץ ישראל."
+   },
+   {
+    "en": "You are writing an article and need to check exactly what it said.",
+    "he": "אתם כותבים כתבה וצריכים לבדוק מה בדיוק נכתב בו."
+   }
+  ],
+  "question": {
+   "en": "Which of these is the primary source?",
+   "he": "איזה מאלה הוא המקור הראשוני?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "The original letter from Arthur Balfour to Lord Rothschild",
+     "he": "המכתב המקורי של ארתור בלפור ללורד רוטשילד"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "A documentary made for the 2017 centenary",
+     "he": "סרט תיעודי שהופק לציון מאה שנה ב-2017"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "An encyclopedia summary",
+     "he": "סיכום באנציקלופדיה"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "A newspaper op-ed about its legacy",
+     "he": "מאמר דעה בעיתון על מורשתו"
+    }
+   }
+  ],
+  "correctAnswer": "a",
+  "explanation": {
+   "en": "A primary source is the original document itself. The Balfour Declaration is a letter from Foreign Secretary Arthur Balfour to Lord Walter Rothschild. Summaries, documentaries and op-eds are secondary sources — useful, but one step removed.",
+   "he": "מקור ראשוני הוא המסמך המקורי עצמו. הצהרת בלפור היא מכתב של שר החוץ ארתור בלפור ללורד וולטר רוטשילד. סיכומים, סרטים ומאמרי דעה הם מקורות משניים – מועילים, אבל רחוקים צעד אחד."
+  },
+  "didYouKnow": {
+   "en": "The same 67-word text says nothing should be done to prejudice the civil and religious rights of existing non-Jewish communities in Palestine. Lord Rothschild gave the original letter to the British Library in 1924.",
+   "he": "אותו טקסט בן 67 מילים קובע כי לא ייעשה דבר שעלול לפגוע בזכויות האזרחיות והדתיות של הקהילות הלא-יהודיות הקיימות בארץ. לורד רוטשילד מסר את המכתב המקורי לספרייה הבריטית ב-1924."
+  },
+  "sources": [
+   {
+    "title": "The Balfour Declaration, 2 November 1917 — full text (Fordham Modern History Sourcebook)",
+    "url": "https://sourcebooks.web.fordham.edu/mod/balfour.asp",
+    "type": "primary"
+   },
+   {
+    "title": "Israel Ministry of Foreign Affairs — The Balfour Declaration: main messages",
+    "url": "https://embassies.gov.il/nicosia-en/NewsAndEvents/Pages/The-Balfour-Declaration---Main-Messages.aspx",
+    "type": "official"
+   },
+   {
+    "title": "The Rothschild Archive — Walter Rothschild and the Balfour Declaration",
+    "url": "https://www.rothschildarchive.org/family/family_interests/walter_rothschild_and_the_balfour_declaration",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Balfour Declaration",
+    "he": "הצהרת בלפור"
+   },
+   "date": {
+    "en": "Nov 2, 1917",
+    "he": "2 בנובמבר 1917"
+   },
+   "category": "history"
+  },
+  "tags": [
+   "sources",
+   "primary"
+  ],
+  "clue": {
+   "en": "Primary means the thing itself, not something written about it.",
+   "he": "ראשוני פירושו הדבר עצמו, לא משהו שנכתב עליו."
+  },
+  "theme": "source",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-03"
+  }
+ },
+ {
+  "id": "hl-ahli",
+  "type": "headline",
+  "difficulty": "hard",
+  "year": "2023",
+  "animationType": "headline",
+  "headlineText": {
+   "en": "ISRAELI STRIKE ON GAZA HOSPITAL KILLS HUNDREDS",
+   "he": "תקיפה ישראלית בבית חולים בעזה הורגת מאות"
+  },
+  "situation": {
+   "en": "Headlines like this ran worldwide on 17 October 2023, citing Gaza's Hamas-run Health Ministry, which claimed 471 dead — within an hour or two of an explosion at al-Ahli Arab Hospital.",
+   "he": "כותרות כאלה התפרסמו בעולם ב-17 באוקטובר 2023, בהסתמך על משרד הבריאות בעזה שבשליטת חמאס, שטען ל-471 הרוגים – בתוך שעה-שעתיים מפיצוץ בבית החולים אל-אהלי."
+  },
+  "context": [
+   {
+    "en": "Israel said the blast was caused by a misfired rocket from Palestinian Islamic Jihad, which denied it.",
+    "he": "ישראל אמרה שהפיצוץ נגרם מרקטה שוגרה בכישלון מצד הג׳יהאד האסלאמי, שהכחיש."
+   }
+  ],
+  "question": {
+   "en": "What did later assessments find?",
+   "he": "מה מצאו הערכות מאוחרות יותר?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "Independent investigators confirmed an Israeli airstrike killed about 500 people",
+     "he": "חוקרים בלתי תלויים אישרו שתקיפה ישראלית הרגה כ-500 בני אדם"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "US, French and Canadian intelligence and a Human Rights Watch analysis pointed to a likely misfired rocket launched from within Gaza; the toll was likely far lower than first reported",
+     "he": "מודיעין ארה״ב, צרפת וקנדה וניתוח של Human Rights Watch הצביעו על רקטה ששוגרה מתוך עזה וסטתה; מספר ההרוגים כנראה נמוך בהרבה מהמדווח בתחילה"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "No explosion took place",
+     "he": "לא היה פיצוץ כלל"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "The hospital was completely destroyed",
+     "he": "בית החולים נהרס כליל"
+    }
+   }
+  ],
+  "correctAnswer": "b",
+  "explanation": {
+   "en": "US intelligence concluded with high confidence that Israel was not responsible, and estimated the toll at the low end of 100–300; French and Canadian assessments agreed. Human Rights Watch found the evidence pointed to a rocket of a type used by armed groups in Gaza that hit the hospital grounds, and called for a full investigation. The New York Times later said its coverage had relied too heavily on claims by Hamas.",
+   "he": "מודיעין ארה״ב קבע ברמת ביטחון גבוהה שישראל אינה אחראית, והעריך את מספר ההרוגים בקצה הנמוך של 100–300; הערכות צרפת וקנדה הסכימו. Human Rights Watch מצא שהראיות מצביעות על רקטה מסוג שבו משתמשים ארגונים חמושים בעזה, שפגעה בשטח בית החולים, וקרא לחקירה מלאה. הניו יורק טיימס הודה לימים שסיקורו הסתמך יותר מדי על טענות חמאס."
+  },
+  "didYouKnow": {
+   "en": "The blast struck a path on the hospital grounds beside the parking lot; the main buildings were left largely standing. The exact death toll has never been independently verified.",
+   "he": "הפיצוץ פגע בשביל בשטח בית החולים, ליד החניון; המבנים העיקריים נותרו ברובם עומדים. מספר ההרוגים המדויק לא אומת מעולם באופן עצמאי."
+  },
+  "sources": [
+   {
+    "title": "Human Rights Watch — Gaza: Findings on October 17 al-Ahli Hospital Explosion (26 November 2023)",
+    "url": "https://www.hrw.org/news/2023/11/26/gaza-findings-october-17-al-ahli-hospital-explosion",
+    "type": "primary"
+   },
+   {
+    "title": "GlobalSecurity.org — 24 October 2023 summary (US intelligence assessment, VOA)",
+    "url": "https://www.globalsecurity.org/military/world/war/operation-iron-swords-2023-10-24.htm",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Al-Ahli Arab Hospital explosion",
+    "url": "https://en.wikipedia.org/wiki/Al-Ahli_Arab_Hospital_explosion",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "The Hospital Headline",
+    "he": "כותרת בית החולים"
+   },
+   "date": {
+    "en": "Oct 17, 2023",
+    "he": "17 באוקטובר 2023"
+   },
+   "category": "media"
+  },
+  "tags": [
+   "media",
+   "verification"
+  ],
+  "clue": {
+   "en": "Several governments published their own intelligence assessments within days.",
+   "he": "כמה ממשלות פרסמו הערכות מודיעין משלהן בתוך ימים."
+  },
+  "theme": "claims",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-03"
+  }
+ },
+ {
+  "id": "hl-abuakleh",
+  "type": "headline",
+  "difficulty": "hard",
+  "year": "2022",
+  "animationType": "headline",
+  "headlineText": {
+   "en": "JOURNALIST KILLED IN JENIN — ISRAEL POINTS TO GUNMEN IN THE CAMP",
+   "he": "עיתונאית נהרגה בג׳נין – ישראל מצביעה על חמושים במחנה"
+  },
+  "situation": {
+   "en": "11 May 2022, Jenin. Veteran Al Jazeera journalist Shireen Abu Akleh, wearing a press vest, is shot dead while covering an Israeli raid against Islamic Jihad gunmen in the camp.",
+   "he": "11 במאי 2022, ג׳נין. העיתונאית הוותיקה של אל-ג׳זירה שירין אבו עאקלה, לבושה אפוד עיתונות, נורית למוות בעת סיקור פשיטה של צה״ל נגד חמושי הג׳יהאד האסלאמי במחנה."
+  },
+  "context": [
+   {
+    "en": "Israel's prime minister initially said gunmen in the camp may have been responsible.",
+    "he": "ראש ממשלת ישראל אמר בתחילה שייתכן שחמושים במחנה אחראים."
+   },
+   {
+    "en": "Investigations by several news organizations and the UN human rights office reached a different conclusion.",
+    "he": "תחקירים של כמה כלי תקשורת ושל משרד זכויות האדם של האו״ם הגיעו למסקנה אחרת."
+   }
+  ],
+  "question": {
+   "en": "What did the Israeli military conclude in September 2022?",
+   "he": "למה הגיע צה״ל בספטמבר 2022?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "She was definitely killed by gunmen in the camp",
+     "he": "היא נהרגה בוודאות מירי של חמושים במחנה"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "There was a \"high possibility\" she was accidentally hit by Israeli army fire",
+     "he": "יש ״אפשרות גבוהה״ שנפגעה בטעות מירי צה״ל"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "She was targeted deliberately, and soldiers would be charged",
+     "he": "היא נורתה במכוון, וחיילים יועמדו לדין"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "The cause could never be examined",
+     "he": "לא ניתן היה לבחון את הסיבה"
+    }
+   }
+  ],
+  "correctAnswer": "b",
+  "explanation": {
+   "en": "The IDF said there was a high possibility she was accidentally hit by Israeli fire aimed at gunmen, did not rule out fire by gunmen in the camp, and opened no criminal investigation. The US review, after seeing both the Israeli and Palestinian Authority investigations, found Israeli fire likely responsible and no reason to believe it was intentional; the bullet was too damaged for a definite conclusion. Her family and Al Jazeera reject the \"accident\" finding.",
+   "he": "צה״ל אמר שקיימת אפשרות גבוהה שנפגעה בטעות מירי ישראלי שכוון לעבר חמושים, לא שלל ירי של חמושים במחנה, ולא פתח בחקירה פלילית. הבדיקה האמריקאית, שעיינה בחקירות של ישראל ושל הרשות הפלסטינית, מצאה שירי ישראלי אחראי ככל הנראה וללא סיבה להאמין שהיה מכוון; הקליע היה פגוע מכדי לקבוע בוודאות. משפחתה ואל-ג׳זירה דוחים את קביעת ״הטעות״."
+  },
+  "didYouKnow": {
+   "en": "The lesson cuts every way: early official statements — from any side — are claims, not conclusions.",
+   "he": "הלקח תקף לכל הכיוונים: הצהרות רשמיות ראשונות – של כל צד – הן טענות, לא מסקנות."
+  },
+  "sources": [
+   {
+    "title": "US Senate (Sen. Van Hollen et al.) — letter on the US Security Coordinator’s review, quoting its findings (July 2022)",
+    "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-leahy-murphy-durbin-press-administration-for-answers-on-us-review-into-death-of-american-journalist-shireen-abu-akleh",
+    "type": "official"
+   },
+   {
+    "title": "The Algemeiner — Israel probe finds “high probability” IDF fire led to accidental death (5 September 2022)",
+    "url": "https://www.algemeiner.com/2022/09/05/israel-probe-finds-high-probability-idf-fire-led-to-accidental-death-of-al-jazeera-journalist-in-jenin/",
+    "type": "independent"
+   },
+   {
+    "title": "Committee to Protect Journalists — on the US State Department finding (5 July 2022)",
+    "url": "https://cpj.org/2022/07/cpj-calls-for-us-to-pursue-accountability-in-shireen-abu-akleh-killing/",
+    "type": "independent"
+   },
+   {
+    "title": "Wikipedia: Killing of Shireen Abu Akleh",
+    "url": "https://en.wikipedia.org/wiki/Killing_of_Shireen_Abu_Akleh",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "A Journalist in Jenin",
+    "he": "עיתונאית בג׳נין"
+   },
+   "date": {
+    "en": "May 11, 2022",
+    "he": "11 במאי 2022"
+   },
+   "category": "media"
+  },
+  "tags": [
+   "media",
+   "verification"
+  ],
+  "clue": {
+   "en": "The army published its own final report four months later.",
+   "he": "הצבא פרסם דוח סופי משלו ארבעה חודשים לאחר מכן."
+  },
+  "theme": "claims",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-03"
+  }
+ },
+ {
+  "id": "hl-jerusalem",
+  "type": "mc",
+  "difficulty": "normal",
+  "year": "1980 / 2018",
+  "animationType": "map:jerusalem",
+  "situation": {
+   "en": "Few cities are described in such different terms.",
+   "he": "מעט ערים מתוארות במונחים כה שונים."
+  },
+  "context": [
+   {
+    "en": "Israel and the Palestinian Authority both claim the city as a capital.",
+    "he": "ישראל והרשות הפלסטינית טוענות שתיהן לעיר כבירה."
+   }
+  ],
+  "question": {
+   "en": "Which of these statements about Jerusalem's status is documented fact?",
+   "he": "איזו מהטענות הבאות על מעמד ירושלים היא עובדה מתועדת?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "Every UN member recognizes Jerusalem as Israel's capital",
+     "he": "כל חברות האו״ם מכירות בירושלים כבירת ישראל"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "Israel's 1980 Basic Law declares Jerusalem its capital; the US moved its embassy there in 2018, while most countries keep theirs elsewhere",
+     "he": "חוק היסוד מ-1980 מכריז על ירושלים כבירת ישראל; ארה״ב העבירה את שגרירותה לעיר ב-2018, בעוד רוב המדינות מחזיקות את שגרירויותיהן במקום אחר"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "No country has an embassy in Jerusalem",
+     "he": "לאף מדינה אין שגרירות בירושלים"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "Jerusalem has no holy sites for Muslims",
+     "he": "אין בירושלים מקומות קדושים למוסלמים"
+    }
+   }
+  ],
+  "correctAnswer": "b",
+  "explanation": {
+   "en": "Each side's position is a claim about what should be; what governments have done is documented. Israel passed its Jerusalem Basic Law in 1980; UN Security Council Resolution 478 declared it null and void and called on states to move their embassies out of the city. The US opened its embassy in Jerusalem in May 2018, and a few countries followed.",
+   "he": "עמדת כל צד היא טענה לגבי מה שראוי; מה שממשלות עשו בפועל – מתועד. ישראל חוקקה את חוק יסוד: ירושלים ב-1980; החלטה 478 של מועצת הביטחון קבעה שהחוק בטל וקראה למדינות להוציא את שגרירויותיהן מהעיר. ארה״ב פתחה את שגרירותה בירושלים במאי 2018, ומדינות מעטות הלכו בעקבותיה."
+  },
+  "didYouKnow": {
+   "en": "Before 1980, more than a dozen countries had embassies in Jerusalem. Guatemala, which opened the first one in 1959, moved back in May 2018 — two days after the United States.",
+   "he": "לפני 1980 החזיקו יותר מתריסר מדינות שגרירויות בירושלים. גואטמלה, שפתחה את הראשונה ב-1959, חזרה לעיר במאי 2018 – יומיים אחרי ארה״ב."
+  },
+  "sources": [
+   {
+    "title": "Wikipedia: UN Security Council Resolution 478",
+    "url": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_478",
+    "type": "independent"
+   },
+   {
+    "title": "Encyclopaedia Britannica — Resolution 478",
+    "url": "https://britannica.com/topic/Resolution-478",
+    "type": "independent"
+   },
+   {
+    "title": "WLRN / NPR — Guatemala, following the U.S., opens its own embassy in Jerusalem (16 May 2018)",
+    "url": "https://www.wlrn.org/2018-05-16/guatemala-following-the-u-s-opens-its-own-embassy-in-jerusalem",
+    "type": "primary"
+   },
+   {
+    "title": "Wikipedia: Jerusalem Law",
+    "url": "https://en.wikipedia.org/wiki/Jerusalem_Law",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "The Status of Jerusalem",
+    "he": "מעמד ירושלים"
+   },
+   "date": {
+    "en": "1980 / 2018",
+    "he": "1980 / 2018"
+   },
+   "category": "diplomacy"
+  },
+  "tags": [
+   "jerusalem",
+   "claims"
+  ],
+  "clue": {
+   "en": "Look for the answer that describes what governments did, not what they want.",
+   "he": "חפשו את התשובה שמתארת מה ממשלות עשו, לא מה הן רוצות."
+  },
+  "theme": "context",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-03"
+  }
+ },
+ {
+  "id": "hl-jenin2002",
+  "type": "headline",
+  "difficulty": "hard",
+  "year": "2002",
+  "animationType": "headline",
+  "headlineText": {
+   "en": "\"MASSACRE\" IN JENIN: HUNDREDS FEARED DEAD",
+   "he": "״טבח״ בג׳נין: חשש למאות הרוגים"
+  },
+  "situation": {
+   "en": "April 2002. After a wave of suicide bombings — the deadliest killed 30 people at a Passover meal in a Netanya hotel — Israel launches Operation Defensive Shield. Israel says 28 suicide attacks had been launched from the Jenin camp; Palestinian Authority officials say hundreds died there in a massacre.",
+   "he": "אפריל 2002. אחרי גל פיגועי התאבדות – הקטלני שבהם הרג 30 בני אדם בליל הסדר במלון בנתניה – יוצאת ישראל למבצע חומת מגן. ישראל טוענת ש-28 פיגועי התאבדות יצאו ממחנה ג׳נין; בכירים ברשות הפלסטינית אומרים שמאות נהרגו שם בטבח."
+  },
+  "context": [
+   {
+    "en": "Israel does not cooperate with a planned UN fact-finding mission, which is disbanded.",
+    "he": "ישראל אינה משתפת פעולה עם משלחת עובדות מתוכננת של האו״ם, והיא מפורקת."
+   }
+  ],
+  "question": {
+   "en": "What did later investigations by the UN and Human Rights Watch report?",
+   "he": "מה דיווחו חקירות מאוחרות של האו״ם ושל Human Rights Watch?"
+  },
+  "answers": [
+   {
+    "id": "a",
+    "text": {
+     "en": "Hundreds of civilians were killed, as first reported",
+     "he": "מאות אזרחים נהרגו, כפי שדווח בתחילה"
+    }
+   },
+   {
+    "id": "b",
+    "text": {
+     "en": "About 52 Arabs — gunmen and civilians — and 23 Israeli soldiers were killed; no evidence of a massacre on the scale claimed — but serious violations were documented",
+     "he": "כ-52 ערבים – חמושים ואזרחים – ו-23 חיילי צה״ל נהרגו; אין ראיות לטבח בהיקף שנטען – אך תועדו הפרות חמורות"
+    }
+   },
+   {
+    "id": "c",
+    "text": {
+     "en": "No one was killed",
+     "he": "איש לא נהרג"
+    }
+   },
+   {
+    "id": "d",
+    "text": {
+     "en": "No investigation was ever carried out",
+     "he": "מעולם לא נערכה חקירה"
+    }
+   }
+  ],
+  "correctAnswer": "b",
+  "explanation": {
+   "en": "The UN Secretary-General's report confirmed 52 Arab deaths, of whom up to half may have been civilians, and 23 Israeli soldiers killed; it stated that claims of 500 or more dead were not substantiated by the evidence. Human Rights Watch also found no massacre, but documented serious violations, including unlawful killings, some of which it said amounted to war crimes.",
+   "he": "דוח מזכ״ל האו״ם אישר 52 הרוגים ערבים, שעד מחציתם אולי אזרחים, ו-23 חיילי צה״ל הרוגים; הוא קבע שהטענות על 500 הרוגים ויותר לא נתמכו בראיות. גם Human Rights Watch לא מצא טבח, אך תיעד הפרות חמורות, ובהן הרג שלא כדין, שלדבריו חלקן עולות כדי פשעי מלחמה."
+  },
+  "didYouKnow": {
+   "en": "Early casualty claims in war often change dramatically. Asking who counted, how, and when is one of the most useful habits a reader can have.",
+   "he": "טענות ראשונות על נפגעים במלחמה משתנות לעתים קרובות באופן דרמטי. לשאול מי ספר, איך ומתי – זה אחד ההרגלים המועילים ביותר לקורא."
+  },
+  "sources": [
+   {
+    "title": "UN Secretary-General — report on recent events in Jenin and other cities (A/ES-10/186, 2002)",
+    "url": "https://unispal.un.org/pdfs/FD7BDE7666E04F5C85256C08004E63ED.pdf",
+    "type": "primary"
+   },
+   {
+    "title": "UN press release SG/2077 — Report of Secretary-General on recent events in Jenin (1 August 2002)",
+    "url": "https://press.un.org/en/2002/SG2077.doc.htm",
+    "type": "official"
+   },
+   {
+    "title": "CNN, 29 April 2002 — \"Despite Human Rights Violations, Jenin No Massacre\" (transcript, contemporary report)",
+    "url": "https://transcripts.cnn.com/show/lad/date/2002-04-29/segment/11",
+    "type": "primary"
+   },
+   {
+    "title": "Wikipedia: Battle of Jenin",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Jenin",
+    "type": "independent"
+   }
+  ],
+  "card": {
+   "title": {
+    "en": "Jenin, 2002",
+    "he": "ג׳נין, 2002"
+   },
+   "date": {
+    "en": "April 2002",
+    "he": "אפריל 2002"
+   },
+   "category": "media"
+  },
+  "tags": [
+   "media",
+   "casualties"
+  ],
+  "clue": {
+   "en": "A UN report counted the dead after the fighting ended.",
+   "he": "דוח של האו״ם ספר את ההרוגים אחרי שהקרבות הסתיימו."
+  },
+  "theme": "claims",
+  "review": {
+   "status": "verified",
+   "checked": "2026-10-03"
+  }
+ }
+]
